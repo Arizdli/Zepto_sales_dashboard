@@ -23,3 +23,6 @@ An interactive Power BI dashboard that analyzes sales performance of beauty and 
 - Data cleaning and modeling
 - Sales and retail analytics, dashboard storytelling
 
+- Download Interaction <a href="https://github.com/Arizdli/Zepto_sales_dashboard/blob/main/Zepto%20Dashboard.jpg">View Dashboard</a>
+
+
