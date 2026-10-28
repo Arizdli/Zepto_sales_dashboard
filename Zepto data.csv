@@ -1,0 +1,1011 @@
+Order ID,Date,Qty,Customer,Product Name,Brand,Price,Payment,Revenue,Status
+ORD-1025,12-Aug-26,2,Rahul Sharma,Face Wash ,GlowCo,499,UPI ,998,Delivered
+ORD-1026,13-Aug-26,1,Priya Sharma,Lipstick,Lakme,699,COD,699,Delivered
+ORD-1027,14-Aug-26,3,Amit Kumar,Shampoo ,Dove, 349 ,UPI,1047,Delivered
+ORD-1028,15-Aug-26,1,Neha Singh,Face Wash ,GlowCo,499,Credit Card,499,Cancelled
+ORD-1029,16-Aug-26,1,Ravi Kumar,Moisturizer ,Ponds,599,UPI,599,Delivered
+ORD-1030,17-Aug-26,2,Ankit Verma,Sunscreen ,Lakme,799,COD,1598,Delivered
+ORD-1031,18-Aug-26,2,Sneha Gupta,Kajal,Maybelline,399,UPI,798,Delivered
+ORD-1032,18-Aug-26,1,Pooja Mehta,Shampoo ,Dove,349,Credit Card,349,Cancelled
+ORD-1033,19-Aug-26,3,Raj Malhotra,Face Wash ,GlowCo,499,UPI,1497,Delivered
+ORD-1034,19-Aug-26,2,Kavita Jain,Lipstick ,Lakme,699,COD,1398,Delivered
+ORD-1035,20-Aug-26,1,Mohit Sharma,Hair Serum,L'Oreal,899,UPI,899,Delivered
+ORD-1036,20-Aug-26,2,Simran Kaur,Face Wash ,GlowCo,499,Credit Card,998,Delivered
+ORD-1037,21-Aug-26,2,Deepak Singh,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1038,21-Aug-26,1,Nisha Verma,Sunscreen ,Lakme,799,COD,799,Cancelled
+ORD-1039,21-Aug-26,4,Arjun Mehra,Kajal ,Maybelline,399,UPI,1596,Delivered
+ORD-1040,22-Aug-26,1,Ritu Sharma,Shampoo,Dove,349,COD,349,Delivered
+ORD-1041,22-Aug-26,1,Karan Gupta,Face Cream ,Nivea,449,Credit Card,449,Delivered
+ORD-1042,22-Aug-26,2,Ayesha Khan,Lipstick ,Lakme,699,UPI,1398,Delivered
+ORD-1043,23-Aug-26,2,Manish Jain,Hair Serum ,L'Oreal,899,UPI,1798,Delivered
+ORD-1044,23-Aug-26,1,Tanu Singh,Face Wash,GlowCo,499,COD,499,Cancelled
+ORD-1045,23-Aug-26,3,Rohit Bansal,Sunscreen ,Lakme,799,Credit Card,2397,Delivered
+ORD-1046,24-Aug-26,1,Shweta Gupta,Moisturizer ,Ponds,599,UPI,599,Delivered
+ORD-1047,24-Aug-26,2,Varun Kapoor,Shampoo ,Dove,349,COD,698,Delivered
+ORD-1048,24-Aug-26,1,Meena Joshi,Kajal,Maybelline,399,UPI,399,Delivered
+ORD-1049,25-Aug-26,3,Saurabh Arora,Face Cream ,Nivea,449,Credit Card,1347,Delivered
+ORD-1050,25-Aug-26,1,Divya Malhotra,Lipstick ,Lakme,699,COD,699,Cancelled
+ORD-1051,25-Aug-26,2,Gaurav Sethi,Hair Serum ,L'Oreal,899,UPI,1798,Delivered
+ORD-1052,26-Aug-26,2,Preeti Agarwal,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1053,26-Aug-26,1,Nitin Kumar,Sunscreen,Lakme,799,COD,799,Delivered
+ORD-1054,26-Aug-26,4,Rhea Kapoor,Shampoo ,Dove,349,Credit Card,1396,Delivered
+ORD-1055,27-Aug-26,2,Abhishek Jain,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1056,27-Aug-26,1,Sonal Gupta,Kajal ,Maybelline,399,COD,399,Delivered
+ORD-1057,27-Aug-26,2,Harish Mehta,Face Cream,Nivea,449,UPI,898,Delivered
+ORD-1058,28-Aug-26,2,Komal Sharma,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1059,28-Aug-26,3,Akash Verma,Hair Serum ,L'Oreal,899,COD,2697,Cancelled
+ORD-1060,28-Aug-26,1,Isha Kapoor,Face Wash ,GlowCo,499,UPI,499,Delivered
+ORD-1061,29-Aug-26,2,Sameer Khan,Sunscreen ,Lakme,799,UPI,1598,Delivered
+ORD-1062,29-Aug-26,1,Monica Jain,Shampoo,Dove,349,COD,349,Delivered
+ORD-1063,29-Aug-26,1,Yash Gupta,Moisturizer ,Ponds,599,Credit Card,599,Delivered
+ORD-1064,30-Aug-26,3,Anjali Mehra,Kajal ,Maybelline,399,UPI,1197,Delivered
+ORD-1065,30-Aug-26,1,Varun Sharma,Face Cream ,Nivea,449,COD,449,Cancelled
+ORD-1066,30-Aug-26,2,Rakesh Jain,Lipstick,Lakme,699,UPI,1398,Delivered
+ORD-1067,31-Aug-26,1,Payal Gupta,Hair Serum ,L'Oreal,899,Credit Card,899,Delivered
+ORD-1068,31-Aug-26,2,Ashish Kapoor,Face Wash ,GlowCo,499,COD,998,Delivered
+ORD-1069,31-Aug-26,1,Neelam Sharma,Sunscreen ,Lakme,799,UPI,799,Delivered
+ORD-1070,01-Sep-26,3,Rohan Mehta,Shampoo ,Dove,349,UPI,1047,Delivered
+ORD-1071,01-Sep-26,1,Sakshi Jain,Moisturizer,Ponds,599,COD,599,Cancelled
+ORD-1072,01-Sep-26,2,Tarun Bansal,Kajal ,Maybelline,399,Credit Card,798,Delivered
+ORD-1073,02-Sep-26,1,Muskan Verma,Face Cream ,Nivea,449,UPI,449,Delivered
+ORD-1074,02-Sep-26,4,Vivek Sharma,Lipstick ,Lakme,699,COD,2796,Delivered
+ORD-1075,01-Jul-26,2,Neha Kapoor,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1076,01-Jul-26,1,Rajiv Sharma,Lipstick,Lakme,699,COD,699,Delivered
+ORD-1077,02-Jul-26,3,Poonam Gupta,Shampoo ,Dove,349,UPI,1047,Delivered
+ORD-1078,02-Jul-26,1,Kunal Mehta,Face Cream ,Nivea,449,Credit Card,449,Delivered
+ORD-1079,03-Jul-26,2,Riya Jain,Moisturizer ,Ponds,599,UPI,1198,Cancelled
+ORD-1080,03-Jul-26,1,Aman Verma,Sunscreen ,Lakme,799,COD,799,Delivered
+ORD-1081,04-Jul-26,2,Shalini Rao,Kajal,Maybelline,399,UPI,798,Delivered
+ORD-1082,04-Jul-26,1,Vikas Singh,Shampoo ,Dove,349,Credit Card,349,Delivered
+ORD-1083,05-Jul-26,3,Nidhi Sharma,Face Wash ,GlowCo,499,UPI,1497,Delivered
+ORD-1084,05-Jul-26,2,Rohit Jain,Lipstick ,Lakme,699,COD,1398,Delivered
+ORD-1085,06-Jul-26,1,Meenal Gupta,Hair Serum,L'Oreal,899,UPI,899,Cancelled
+ORD-1086,06-Jul-26,2,Arvind Kumar,Face Wash ,GlowCo,499,Credit Card,998,Delivered
+ORD-1087,07-Jul-26,2,Sakshi Mehta,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1088,07-Jul-26,1,Naman Bansal,Sunscreen ,Lakme,799,COD,799,Cancelled
+ORD-1089,08-Jul-26,4,Aarti Sharma,Kajal ,Maybelline,399,UPI,1596,Delivered
+ORD-1090,08-Jul-26,1,Manav Kapoor,Shampoo,Dove,349,COD,349,Delivered
+ORD-1091,09-Jul-26,1,Priti Jain,Face Cream ,Nivea,449,Credit Card,449,Delivered
+ORD-1092,09-Jul-26,2,Ashok Verma,Lipstick ,Lakme,699,UPI,1398,Delivered
+ORD-1093,10-Jul-26,2,Rachna Gupta,Hair Serum ,L'Oreal,899,UPI,1798,Delivered
+ORD-1094,10-Jul-26,1,Suresh Kumar,Face Wash,GlowCo,499,COD,499,Cancelled
+ORD-1095,11-Jul-26,3,Divya Sharma,Sunscreen ,Lakme,799,Credit Card,2397,Delivered
+ORD-1096,11-Jul-26,1,Mohit Gupta,Moisturizer ,Ponds,599,UPI,599,Delivered
+ORD-1097,12-Jul-26,2,Ritu Mehra,Shampoo ,Dove,349,COD,698,Delivered
+ORD-1098,12-Jul-26,1,Varun Jain,Kajal,Maybelline,399,UPI,399,Delivered
+ORD-1099,13-Jul-26,3,Sonali Arora,Face Cream ,Nivea,449,Credit Card,1347,Delivered
+ORD-1100,13-Jul-26,1,Akshay Malhotra,Lipstick ,Lakme,699,COD,699,Cancelled
+ORD-1101,14-Jul-26,2,Priyanka Sethi,Hair Serum ,L'Oreal,899,UPI,1798,Delivered
+ORD-1102,14-Jul-26,2,Deepak Agarwal,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1103,15-Jul-26,1,Nisha Kapoor,Sunscreen,Lakme,799,COD,799,Delivered
+ORD-1104,15-Jul-26,4,Hahit Jain,Shampoo ,Dove,349,Credit Card,1396,Delivered
+ORD-1105,16-Jul-26,2,Kavya Sharma,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1106,16-Jul-26,1,Rakesh Verma,Kajal ,Maybelline,399,COD,399,Delivered
+ORD-1107,17-Jul-26,2,Monica Gupta,Face Cream,Nivea,449,UPI,898,Delivered
+ORD-1108,17-Jul-26,2,Yash Mehta,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1109,18-Jul-26,3,Shreya Jain,Hair Serum ,L'Oreal,899,COD,2697,Cancelled
+ORD-1110,18-Jul-26,1,Abhishek Sharma,Face Wash ,GlowCo,499,UPI,499,Delivered
+ORD-1111,19-Jul-26,2,Rohan Kapoor,Sunscreen ,Lakme,799,UPI,1598,Delivered
+ORD-1112,19-Jul-26,1,Komal Jain,Shampoo,Dove,349,COD,349,Delivered
+ORD-1113,20-Jul-26,1,Amit Mehta,Moisturizer ,Ponds,599,Credit Card,599,Delivered
+ORD-1114,20-Jul-26,3,Preeti Sharma,Kajal ,Maybelline,399,UPI,1197,Delivered
+ORD-1115,21-Jul-26,1,Vivek Gupta,Face Cream ,Nivea,449,COD,449,Cancelled
+ORD-1116,21-Jul-26,2,Anjali Verma,Lipstick,Lakme,699,UPI,1398,Delivered
+ORD-1117,22-Jul-26,1,Pankaj Jain,Hair Serum ,L'Oreal,899,Credit Card,899,Delivered
+ORD-1118,22-Jul-26,2,Swati Kapoor,Face Wash ,GlowCo,499,COD,998,Delivered
+ORD-1119,23-Jul-26,1,Rajesh Sharma,Sunscreen ,Lakme,799,UPI,799,Delivered
+ORD-1120,23-Jul-26,3,Neha Gupta,Shampoo ,Dove,349,UPI,1047,Delivered
+ORD-1121,24-Jul-26,1,Tarun Mehta,Moisturizer,Ponds,599,COD,599,Cancelled
+ORD-1122,24-Jul-26,2,Muskan Jain,Kajal ,Maybelline,399,Credit Card,798,Delivered
+ORD-1123,25-Jul-26,1,Rohit Sharma,Face Cream ,Nivea,449,UPI,449,Delivered
+ORD-1124,25-Jul-26,4,Simran Gupta,Lipstick ,Lakme,699,COD,2796,Delivered
+ORD-1125,01-Jul-26,2,Karan Mehta,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1126,01-Jul-26,1,Ayesha Sharma,Shampoo ,Dove,349,Credit Card,349,Delivered
+ORD-1127,02-Jul-26,3,Manish Kapoor,Sunscreen,Lakme,799,COD,2397,Delivered
+ORD-1128,02-Jul-26,1,Ritu Gupta,Moisturizer ,Ponds,599,UPI,599,Cancelled
+ORD-1129,03-Jul-26,2,Nitin Sharma,Kajal ,Maybelline,399,UPI,798,Delivered
+ORD-1130,03-Jul-26,1,Sonam Jain,Face Cream ,Nivea,449,Credit Card,449,Delivered
+ORD-1131,04-Jul-26,2,Gaurav Mehta,Lipstick,Lakme,699,UPI,1398,Delivered
+ORD-1132,04-Jul-26,1,Isha Sharma,Hair Serum ,L'Oreal,899,COD,899,Delivered
+ORD-1133,05-Jul-26,3,Rajat Gupta,Face Wash ,GlowCo,499,UPI,1497,Delivered
+ORD-1134,05-Jul-26,2,Priya Mehta,Sunscreen ,Lakme,799,Credit Card,1598,Cancelled
+ORD-1135,06-Jul-26,1,Sameer Jain,Shampoo,Dove,349,COD,349,Delivered
+ORD-1136,06-Jul-26,2,Nandini Kapoor,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1137,07-Jul-26,1,Vaha Sharma,Kajal ,Maybelline,399,UPI,399,Delivered
+ORD-1138,07-Jul-26,4,Aditya Verma,Lipstick ,Lakme,699,Credit Card,2796,Delivered
+ORD-1139,08-Jul-26,2,Shweta Jain,Face Cream,Nivea,449,COD,898,Delivered
+ORD-1140,08-Jul-26,1,Kunal Sharma,Hair Serum ,L'Oreal,899,UPI,899,Cancelled
+ORD-1141,09-Jul-26,2,Rhea Gupta,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1142,09-Jul-26,3,Sandeep Mehta,Shampoo ,Dove,349,COD,1047,Delivered
+ORD-1143,10-Jul-26,1,Mansi Kapoor,Sunscreen,Lakme,799,Credit Card,799,Delivered
+ORD-1144,10-Jul-26,2,Arjun Sharma,Moisturizer ,Ponds,599,UPI,1198,Delivered
+ORD-1145,11-Jul-26,1,Pooja Jain,Kajal ,Maybelline,399,COD,399,Delivered
+ORD-1146,11-Jul-26,3,Nikhil Gupta,Face Cream ,Nivea,449,UPI,1347,Delivered
+ORD-1147,12-Jul-26,2,Reena Mehta,Lipstick,Lakme,699,Credit Card,1398,Cancelled
+ORD-1148,12-Jul-26,1,Akash Jain,Hair Serum ,L'Oreal,899,COD,899,Delivered
+ORD-1149,13-Jul-26,2,Tina Sharma,Face Wash ,GlowCo,499,UPI,998,Delivered
+ORD-1150,13-Jul-26,1,Harish Gupta,Sunscreen ,Lakme,799,UPI,799,Delivered
+ORD-1151,14-Jul-26,3,Sakshi Mehta,Shampoo,Dove,349,COD,1047,Delivered
+ORD-1152,14-Jul-26,2,Varun Sharma,Moisturizer ,Ponds,599,Credit Card,1198,Delivered
+ORD-1153,15-Jul-26,1,Divya Jain,Kajal ,Maybelline,399,UPI,399,Cancelled
+ORD-1154,15-Jul-26,2,Manish Gupta,Face Cream ,Nivea,449,COD,898,Delivered
+ORD-1155,16-Jul-26,4,Nisha Mehta,Lipstick ,Lakme,699,UPI,2796,Delivered
+ORD-1156,16-Jul-26,1,Rohan Jain,Hair Serum,L'Oreal,899,Credit Card,899,Delivered
+ORD-1157,17-Jul-26,2,Kavita Sharma,Face Wash ,GlowCo,499,COD,998,Delivered
+ORD-1158,17-Jul-26,1,Amit Gupta,Sunscreen ,Lakme,799,UPI,799,Delivered
+ORD-1159,18-Jul-26,3,Payal Mehta,Shampoo ,Dove,349,UPI,1047,Cancelled
+ORD-1160,18-Jul-26,2,Saurabh Jain,Moisturizer,Ponds,599,COD,1198,Delivered
+ORD-1161,19-Jul-26,1,Monica Sharma,Kajal ,Maybelline,399,Credit Card,399,Delivered
+ORD-1162,19-Jul-26,2,Ankit Gupta,Face Cream ,Nivea,449,UPI,898,Delivered
+ORD-1163,20-Jul-26,1,Radhika Mehta,Lipstick,Lakme,699,COD,699,Delivered
+ORD-1164,20-Jul-26,3,Mohan Sharma,Hair Serum ,L'Oreal,899,UPI,2697,Delivered
+ORD-1165,21-Jul-26,2,Sweta Gupta,Face Wash ,GlowCo,499,Credit Card,998,Cancelled
+ORD-1166,21-Jul-26,1,Nitin Mehta,Sunscreen ,Lakme,799,COD,799,Delivered
+ORD-1167,22-Jul-26,2,Rachit Jain,Shampoo,Dove,349,UPI,698,Delivered
+ORD-1168,22-Jul-26,1,Asha Sharma,Moisturizer ,Ponds,599,Credit Card,599,Delivered
+ORD-1169,23-Jul-26,3,Yuvraj Gupta,Kajal ,Maybelline,399,UPI,1197,Delivered
+ORD-1170,23-Jul-26,2,Mehak Jain,Face Cream,Nivea,449,COD,898,Cancelled
+ORD-1171,24-Jul-26,1,Rakesh Sharma,Lipstick ,Lakme,699,UPI,699,Delivered
+ORD-1172,24-Jul-26,2,Anushka Mehta,Hair Serum ,L'Oreal,899,Credit Card,1798,Delivered
+ORD-1173,25-Jul-26,1,Dev Gupta,Face Wash ,GlowCo,499,COD,499,Delivered
+ORD-1174,25-Jul-26,4,Shikha Sharma,Sunscreen,Lakme,799,UPI,3196,Delivered
+ORD-1175,01-Jun-26,2,Rahul Sharma,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1176,01-Jun-26,1,Priya Gupta,Shampoo,Mamaearth,549,COD,549,Delivered
+ORD-1177,02-Jun-26,3,Amit Verma,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1178,02-Jun-26,1,Neha Singh,Lipstick ,Lakme,699,Credit Card,699,Delivered
+ORD-1179,03-Jun-26,2,Rohan Mehta,Hair Serum ,L'Oreal,899,UPI,1798,Cancelled
+ORD-1180,03-Jun-26,1,Anjali Jain,Moisturizer,Nivea,499,COD,499,Delivered
+ORD-1181,04-Jun-26,2,Karan Sharma,Body Lotion ,Vaseline,399,UPI,798,Delivered
+ORD-1182,04-Jun-26,1,Sneha Kapoor,Kajal ,Maybelline,399,Credit Card,399,Delivered
+ORD-1183,05-Jun-26,3,Varun Gupta,Face Serum ,Plum,599,UPI,1797,Delivered
+ORD-1184,05-Jun-26,1,Riya Mehta,Compact Powder ,Maybelline,499,COD,499,Delivered
+ORD-1185,06-Jun-26,2,Mohit Jain,Conditioner,Dove,449,UPI,898,Cancelled
+ORD-1186,06-Jun-26,1,Pooja Sharma,Hand Wash ,Dettol,199,COD,199,Delivered
+ORD-1187,07-Jun-26,2,Deepak Gupta,Hair Mask ,Mamaearth,599,Credit Card,1198,Delivered
+ORD-1188,07-Jun-26,1,Nisha Verma,Blush ,Swiss Beauty,349,UPI,349,Delivered
+ORD-1189,08-Jun-26,3,Arjun Mehra,Face Wash ,CeraVe,799,COD,2397,Delivered
+ORD-1190,08-Jun-26,1,Kavita Jain,Eyeliner,Lakme,399,UPI,399,Delivered
+ORD-1191,09-Jun-26,2,Manish Kapoor,Body Scrub ,Dove,549,Credit Card,1098,Delivered
+ORD-1192,09-Jun-26,1,Simran Kaur,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1193,10-Jun-26,2,Raj Malhotra,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1194,10-Jun-26,1,Tanu Singh,Makeup Remover ,Garnier,299,Credit Card,299,Delivered
+ORD-1195,11-Jun-26,3,Rohit Bansal,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1196,11-Jun-26,2,Shweta Gupta,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1197,12-Jun-26,1,Vaha Mehta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1198,12-Jun-26,2,Akash Verma,Face Toner,Plum,399,COD,798,Delivered
+ORD-1199,13-Jun-26,1,Divya Sharma,Primer ,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-1200,13-Jun-26,3,Nitin Kumar,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1201,14-Jun-26,2,Ritu Jain,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-1202,14-Jun-26,1,Gaurav Sethi,Foundation,Lakme,699,UPI,699,Delivered
+ORD-1203,15-Jun-26,2,Preeti Agarwal,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-1204,15-Jun-26,1,Saurabh Arora,Body Wash ,Nivea,449,COD,449,Delivered
+ORD-1205,16-Jun-26,3,Monica Jain,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1206,16-Jun-26,2,Harish Mehta,Mascara ,Maybelline,599,UPI,1198,Cancelled
+ORD-1207,17-Jun-26,1,Komal Sharma,Hand Cream,Nivea,249,COD,249,Delivered
+ORD-1208,17-Jun-26,2,Akshay Kapoor,Hair Shampoo ,L'Oreal,599,Credit Card,1198,Delivered
+ORD-1209,18-Jun-26,1,Isha Gupta,BB Cream ,Garnier,499,UPI,499,Delivered
+ORD-1210,18-Jun-26,3,Sameer Khan,Face Wash ,Mamaearth,499,COD,1497,Delivered
+ORD-1211,19-Jun-26,2,Sonal Mehta,Nail Polish ,Lakme,199,UPI,398,Delivered
+ORD-1212,19-Jun-26,1,Abhishek Jain,Hair Spray,L'Oreal,699,Credit Card,699,Cancelled
+ORD-1213,20-Jun-26,2,Payal Gupta,Moisturizer ,Cetaphil,799,UPI,1598,Delivered
+ORD-1214,20-Jun-26,1,Yash Verma,Cleansing Balm ,Dot & Key,599,COD,599,Delivered
+ORD-1215,21-Jun-26,3,Nandini Sharma,Sunscreen,Minimalist,599,UPI,1797,Delivered
+ORD-1216,21-Jun-26,2,Rakesh Jain,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1217,22-Jun-26,1,Meena Joshi,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1218,22-Jun-26,2,Tarun Bansal,Hair Serum ,Strea,399,UPI,798,Delivered
+ORD-1219,23-Jun-26,1,Muskan Verma,Concealer ,Maybelline,599,COD,599,Cancelled
+ORD-1220,23-Jun-26,3,Vivek Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1221,24-Jun-26,2,Sakshi Jain,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1222,24-Jun-26,1,Rajat Gupta,Lipstick,Maybelline,699,COD,699,Delivered
+ORD-1223,25-Jun-26,2,Tina Sharma,Shampoo ,Tresemme,499,UPI,998,Delivered
+ORD-1224,25-Jun-26,1,Nikhil Mehta,Body Scrub ,Plum,549,Credit Card,549,Delivered
+ORD-1225,26-Jun-26,3,Rhea Kapoor,Face Serum ,Minimalist,599,UPI,1797,Cancelled
+ORD-1226,26-Jun-26,1,Sandeep Jain,Eyebrow Pencil,Lakme,299,COD,299,Delivered
+ORD-1227,27-Jun-26,2,Aarti Sharma,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1228,27-Jun-26,1,Manav Kapoor,Hair Oil ,Indulekha,599,Credit Card,599,Delivered
+ORD-1229,28-Jun-26,2,Rachna Gupta,Face Cream ,Olay,899,COD,1798,Delivered
+ORD-1230,28-Jun-26,1,Suresh Kumar,Lip Gloss,Lakme,499,UPI,499,Delivered
+ORD-1231,29-Jun-26,3,Divya Mehta,Shampoo ,Pantene,399,UPI,1197,Delivered
+ORD-1232,29-Jun-26,2,Mohan Gupta,Face Wash ,Himalaya,249,COD,498,Cancelled
+ORD-1233,30-Jun-26,1,Priti Sharma,Sunscreen ,Dot & Key,699,Credit Card,699,Delivered
+ORD-1234,30-Jun-26,2,Varun Jain,Moisturizer,Plum,499,UPI,998,Delivered
+ORD-1235,01-Jun-26,1,Ananya Gupta,Shampoo ,Sunsilk,299,COD,299,Delivered
+ORD-1236,01-Jun-26,2,Karan Mehta,Face Wash ,Himalaya,199,UPI,398,Delivered
+ORD-1237,02-Jun-26,3,Pankaj Sharma,Body Wash ,Dove,449,Credit Card,1347,Delivered
+ORD-1238,02-Jun-26,1,Swati Jain,Kajal ,Lakme,399,COD,399,Cancelled
+ORD-1239,03-Jun-26,2,Ashish Gupta,Face Serum ,Plum,599,UPI,1198,Delivered
+ORD-1240,03-Jun-26,1,Reena Kapoor,Hair Mask ,L'Oreal,799,Credit Card,799,Delivered
+ORD-1241,04-Jun-26,2,Dev Sharma,Foundation ,Maybelline,699,COD,1398,Delivered
+ORD-1242,04-Jun-26,1,Shikha Gupta,Makeup Remover,Garnier,299,UPI,299,Delivered
+ORD-1243,05-Jun-26,3,Yuvraj Mehta,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1244,05-Jun-26,2,Mehak Jain,Conditioner ,Dove,399,COD,798,Cancelled
+ORD-1245,06-Jun-26,1,Rakesh Gupta,Night Cream ,Olay,899,Credit Card,899,Delivered
+ORD-1246,06-Jun-26,2,Asha Sharma,Face Toner ,Plum,399,UPI,798,Delivered
+ORD-1247,07-Jun-26,1,Naman Jain,Body Lotion ,Vaseline,399,COD,399,Delivered
+ORD-1248,07-Jun-26,3,Radhika Mehta,Lipstick,Lakme,699,UPI,2097,Delivered
+ORD-1249,08-Jun-26,2,Hahit Sharma,Shampoo ,Mamaearth,549,Credit Card,1098,Delivered
+ORD-1250,08-Jun-26,1,Mansi Gupta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1251,09-Jun-26,2,Arvind Mehta,Face Wash ,CeraVe,799,UPI,1598,Delivered
+ORD-1252,09-Jun-26,1,Kavya Jain,Hair Oil ,Parachute,299,COD,299,Delivered
+ORD-1253,10-Jun-26,3,Rohit Gupta,Moisturizer ,Cetaphil,799,Credit Card,2397,Delivered
+ORD-1254,10-Jun-26,2,Shreya Sharma,Mascara ,Maybelline,599,UPI,1198,Delivered
+ORD-1255,11-Jun-26,1,Aakash Mehta,Face Mask,Mamaearth,399,COD,399,Delivered
+ORD-1256,11-Jun-26,2,Poonam Jain,Hair Serum ,Strea,399,UPI,798,Cancelled
+ORD-1257,12-Jun-26,1,Kunal Gupta,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1258,12-Jun-26,3,Neelam Sharma,Body Scrub ,Dove,549,COD,1647,Delivered
+ORD-1259,13-Jun-26,2,Saurabh Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1260,13-Jun-26,1,Priyanka Mehta,Lip Balm ,Nivea,199,COD,199,Delivered
+ORD-1261,14-Jun-26,2,Manish Sharma,Face Cream ,Olay,899,Credit Card,1798,Delivered
+ORD-1262,14-Jun-26,1,Isha Jain,Nail Polish ,Lakme,199,UPI,199,Cancelled
+ORD-1263,15-Jun-26,3,Gaurav Gupta,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1264,15-Jun-26,2,Sonali Sharma,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1265,16-Jun-26,1,Amit Jain,Cleansing Balm ,Dot & Key,599,Credit Card,599,Delivered
+ORD-1266,16-Jun-26,2,Ritu Gupta,Face Serum ,The Ordinary,999,UPI,1998,Delivered
+ORD-1267,17-Jun-26,1,Vaha Jain,Eyeliner ,Lakme,399,COD,399,Cancelled
+ORD-1268,17-Jun-26,3,Akash Sharma,Hair Spray ,L'Oreal,699,UPI,2097,Delivered
+ORD-1269,18-Jun-26,2,Monica Gupta,Moisturizer ,Nivea,499,Credit Card,998,Delivered
+ORD-1270,18-Jun-26,1,Sameer Mehta,Face Scrub ,Biotique,299,COD,299,Delivered
+ORD-1271,19-Jun-26,2,Nidhi Jain,Sunscreen ,Dot & Key,699,UPI,1398,Delivered
+ORD-1272,19-Jun-26,1,Vikas Sharma,Lip Liner ,Swiss Beauty,249,Credit Card,249,Delivered
+ORD-1273,20-Jun-26,3,Payal Jain,Body Wash ,Nivea,449,COD,1347,Cancelled
+ORD-1274,20-Jun-26,2,Rajesh Gupta,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1275,20-Jun-26,1,Neha Sharma,Hair Shampoo ,Dove,449,UPI,449,Delivered
+ORD-1276,21-Jun-26,2,Rahul Mehta,Face Serum ,Minimalist,599,COD,1198,Delivered
+ORD-1277,21-Jun-26,1,Pooja Gupta,Lipstick ,Maybelline,699,Credit Card,699,Delivered
+ORD-1278,22-Jun-26,3,Karan Jain,Body Lotion ,Vaseline,399,UPI,1197,Delivered
+ORD-1279,22-Jun-26,2,Riya Sharma,Face Wash,Neutrogena,699,COD,1398,Cancelled
+ORD-1280,23-Jun-26,1,Amit Kapoor,Hair Conditioner ,Tresemme,499,UPI,499,Delivered
+ORD-1281,23-Jun-26,2,Shweta Mehta,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1282,24-Jun-26,1,Mohit Gupta,Face Toner ,Plum,399,COD,399,Delivered
+ORD-1283,24-Jun-26,3,Nisha Jain,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1284,25-Jun-26,2,Arjun Sharma,Mascara,Maybelline,599,UPI,1198,Cancelled
+ORD-1285,25-Jun-26,1,Divya Mehta,Body Wash ,Nivea,449,COD,449,Delivered
+ORD-1286,26-Jun-26,2,Raj Gupta,Hair Oil ,Indulekha,599,Credit Card,1198,Delivered
+ORD-1287,26-Jun-26,1,Simran Sharma,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1288,27-Jun-26,3,Varun Jain,Face Cream ,Olay,899,COD,2697,Delivered
+ORD-1289,27-Jun-26,2,Kavita Gupta,Lip Gloss,Lakme,499,UPI,998,Delivered
+ORD-1290,28-Jun-26,1,Manish Mehta,Hair Mask ,L'Oreal,799,Credit Card,799,Cancelled
+ORD-1291,28-Jun-26,2,Preeti Jain,Face Wash ,CeraVe,799,UPI,1598,Delivered
+ORD-1292,29-Jun-26,1,Saurabh Sharma,Hand Cream ,Nivea,249,COD,249,Delivered
+ORD-1293,29-Jun-26,3,Ritu Mehta,Shampoo,Pantene,399,UPI,1197,Delivered
+ORD-1294,30-Jun-26,2,Akash Gupta,Face Mask ,Mamaearth,399,Credit Card,798,Delivered
+ORD-1295,30-Jun-26,1,Anjali Sharma,Nail Polish ,Lakme,199,COD,199,Delivered
+ORD-1296,21-Jun-26,2,Deepak Jain,Moisturizer ,Plum,499,UPI,998,Delivered
+ORD-1297,21-Jun-26,1,Sonal Gupta,Kajal,Maybelline,399,Credit Card,399,Cancelled
+ORD-1298,22-Jun-26,3,Rohit Mehta,Hair Serum ,Strea,399,COD,1197,Delivered
+ORD-1299,22-Jun-26,2,Isha Sharma,Foundation ,Lakme,699,UPI,1398,Delivered
+ORD-1300,23-Jun-26,1,Nitin Gupta,Makeup Remover ,Garnier,299,COD,299,Delivered
+ORD-1301,23-Jun-26,2,Priya Jain,Sunscreen,Dot & Key,699,UPI,1398,Delivered
+ORD-1302,24-Jun-26,1,Gaurav Sharma,Body Scrub ,Dove,549,Credit Card,549,Delivered
+ORD-1303,24-Jun-26,3,Rakesh Mehta,Shampoo ,Head & Shoulde,449,COD,1347,Cancelled
+ORD-1304,25-Jun-26,2,Neha Gupta,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1305,25-Jun-26,1,Manav Sharma,Face Serum ,The Ordinary,999,Credit Card,999,Delivered
+ORD-1306,26-Jun-26,2,Shikha Jain,Lip Liner,Swiss Beauty,249,COD,498,Delivered
+ORD-1307,26-Jun-26,1,Yash Gupta,Hair Spray ,L'Oreal,699,UPI,699,Delivered
+ORD-1308,27-Jun-26,3,Monica Mehta,Face Wash ,Himalaya,249,UPI,747,Cancelled
+ORD-1309,27-Jun-26,2,Ashish Sharma,Moisturizer,Cetaphil,799,Credit Card,1598,Delivered
+ORD-1310,28-Jun-26,1,Reena Gupta,Eyeliner ,Lakme,399,COD,399,Delivered
+ORD-1311,28-Jun-26,2,Kunal Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1312,29-Jun-26,1,Radhika Sharma,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1313,29-Jun-26,3,Harish Gupta,Body Wash ,Dove,449,COD,1347,Delivered
+ORD-1314,30-Jun-26,2,Tina Jain,Hair Oil ,Parachute,299,UPI,598,Cancelled
+ORD-1315,30-Jun-26,1,Abhishek Mehta,Face Cream ,Nivea,449,UPI,449,Delivered
+ORD-1316,20-Jun-26,2,Payal Sharma,Shampoo ,Sunsilk,299,COD,598,Delivered
+ORD-1317,20-Jun-26,1,Vaha Gupta,Face Scrub,Biotique,299,Credit Card,299,Delivered
+ORD-1318,21-Jun-26,3,Sandeep Jain,Lipstick ,Lakme,699,UPI,2097,Delivered
+ORD-1319,21-Jun-26,2,Komal Mehta,Conditioner ,Dove,399,COD,798,Delivered
+ORD-1320,22-Jun-26,1,Vikas Gupta,Cleansing Balm ,Dot & Key,599,UPI,599,Cancelled
+ORD-1321,22-Jun-26,2,Ayesha Jain,Face Serum ,Plum,599,Credit Card,1198,Delivered
+ORD-1322,23-Jun-26,1,Rajat Sharma,Hand Wash ,Dettol,199,COD,199,Delivered
+ORD-1323,23-Jun-26,3,Mansi Gupta,Hair Mask,Mamaearth,599,UPI,1797,Delivered
+ORD-1324,24-Jun-26,2,Nikhil Jain,Compact Powder ,Maybelline,499,UPI,998,Delivered
+ORD-1325,24-Jun-26,1,Shreya Mehta,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1326,25-Jun-26,2,Aman Gupta,Night Cream ,Olay,899,COD,1798,Cancelled
+ORD-1327,25-Jun-26,1,Poonam Sharma,Lip Balm,Nivea,199,UPI,199,Delivered
+ORD-1328,26-Jun-26,3,Rohan Jain,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1329,26-Jun-26,2,Nandini Gupta,Face Wash ,Cetaphil,699,COD,1398,Delivered
+ORD-1330,27-Jun-26,1,Sameer Sharma,Mascara ,Maybelline,599,Credit Card,599,Delivered
+ORD-1331,27-Jun-26,2,Meenal Jain,Hair Conditioner,Tresemme,499,UPI,998,Cancelled
+ORD-1332,28-Jun-26,3,Karan Gupta,Foundation ,Maybelline,699,COD,2097,Delivered
+ORD-1333,28-Jun-26,1,Ritu Sharma,Makeup Remover ,Garnier,299,UPI,299,Delivered
+ORD-1334,29-Jun-26,2,Dev Mehta,Moisturizer ,Nivea,499,Credit Card,998,Delivered
+ORD-1335,29-Jun-26,1,Swati Gupta,Face Toner,Plum,399,COD,399,Delivered
+ORD-1336,30-Jun-26,3,Arvind Sharma,Shampoo ,Dove,449,UPI,1347,Cancelled
+ORD-1337,30-Jun-26,2,Ananya Jain,Body Scrub ,Dove,549,UPI,1098,Delivered
+ORD-1338,20-Jun-26,1,Mohan Gupta,Hair Serum ,L'Oreal,899,Credit Card,899,Delivered
+ORD-1339,20-Jun-26,2,Rhea Sharma,Face Mask ,Mamaearth,399,COD,798,Delivered
+ORD-1340,21-Jun-26,1,Tarun Jain,Lip Gloss ,Lakme,499,UPI,499,Delivered
+ORD-1341,21-Jun-26,3,Isha Mehta,Sunscreen,Dot & Key,699,UPI,2097,Cancelled
+ORD-1342,22-Jun-26,2,Varun Gupta,Face Cream ,Olay,899,Credit Card,1798,Delivered
+ORD-1343,22-Jun-26,1,Nisha Sharma,Nail Polish ,Lakme,199,COD,199,Delivered
+ORD-1344,23-Jun-26,2,Akshay Jain,Shampoo ,Pantene,399,UPI,798,Delivered
+ORD-1345,23-Jun-26,1,Preeti Gupta,Hair Oil,Indulekha,599,COD,599,Delivered
+ORD-1346,24-Jun-26,3,Manish Sharma,Face Wash ,Neutrogena,699,UPI,2097,Delivered
+ORD-1347,24-Jun-26,2,Kavita Mehta,Lip Liner ,Swiss Beauty,249,Credit Card,498,Cancelled
+ORD-1348,25-Jun-26,1,Yash Jain,Hand Cream ,Nivea,249,UPI,249,Delivered
+ORD-1349,25-Jun-26,2,Divya Gupta,Moisturizer ,Cetaphil,799,COD,1598,Delivered
+ORD-1350,26-Jun-26,1,Rohit Sharma,Blush,Swiss Beauty,349,Credit Card,349,Delivered
+ORD-1351,26-Jun-26,3,Shalini Mehta,Body Wash ,Nivea,449,UPI,1347,Delivered
+ORD-1352,27-Jun-26,2,Gaurav Jain,Face Serum ,The Ordinary,999,COD,1998,Cancelled
+ORD-1353,27-Jun-26,1,Sneha Gupta,Eyebrow Pencil ,Lakme,299,UPI,299,Delivered
+ORD-1354,28-Jun-26,2,Naman Sharma,Conditioner ,Mamaearth,449,Credit Card,898,Delivered
+ORD-1355,28-Jun-26,1,Aarti Gupta,Hair Spray,L'Oreal,699,COD,699,Delivered
+ORD-1356,29-Jun-26,3,Saurabh Mehta,Face Wash ,Himalaya,249,UPI,747,Delivered
+ORD-1357,29-Jun-26,2,Monica Sharma,Sunscreen ,Minimalist,599,UPI,1198,Cancelled
+ORD-1358,30-Jun-26,1,Hahit Jain,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1359,30-Jun-26,2,Rakesh Gupta,Shampoo,Head & Shoulde,449,COD,898,Delivered
+ORD-1360,20-Jun-26,1,Priyanka Sharma,Cleansing Balm ,Dot & Key,599,UPI,599,Delivered
+ORD-1361,20-Jun-26,3,Ankit Mehta,Face Scrub ,Biotique,299,UPI,897,Delivered
+ORD-1362,21-Jun-26,2,Neelam Gupta,Lipstick ,Maybelline,699,COD,1398,Cancelled
+ORD-1363,21-Jun-26,1,Suresh Jain,Hair Mask ,L'Oreal,799,Credit Card,799,Delivered
+ORD-1364,22-Jun-26,2,Rachna Sharma,Body Lotion ,Vaseline,399,UPI,798,Delivered
+ORD-1365,22-Jun-26,1,Pankaj Gupta,Face Toner ,Plum,399,COD,399,Delivered
+ORD-1366,23-Jun-26,3,Riya Mehta,Sunscreen,Aqualogica,699,UPI,2097,Delivered
+ORD-1367,23-Jun-26,2,Mohit Sharma,Mascara ,Maybelline,599,Credit Card,1198,Cancelled
+ORD-1368,24-Jun-26,1,Sakshi Gupta,Moisturizer ,Nivea,499,UPI,499,Delivered
+ORD-1369,24-Jun-26,2,Kunal Mehta,Hair Serum ,Strea,399,COD,798,Delivered
+ORD-1370,25-Jun-26,3,Anjali Jain,Face Cream ,Olay,899,UPI,2697,Delivered
+ORD-1371,25-Jun-26,1,Rajesh Sharma,Lip Gloss,Lakme,499,Credit Card,499,Delivered
+ORD-1372,26-Jun-26,2,Mehak Gupta,Shampoo ,Sunsilk,299,COD,598,Cancelled
+ORD-1373,26-Jun-26,1,Vikas Jain,Face Wash ,Cetaphil,699,UPI,699,Delivered
+ORD-1374,27-Jun-26,3,Payal Mehta,Body Scrub ,Dove,549,UPI,1647,Delivered
+ORD-1375,01-May-26,2,Rahul Sharma,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1376,01-May-26,1,Priya Mehta,Shampoo ,Dove,449,COD,449,Delivered
+ORD-1377,02-May-26,3,Amit Gupta,Sunscreen,Minimalist,599,UPI,1797,Delivered
+ORD-1378,02-May-26,2,Neha Jain,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1379,03-May-26,1,Rohan Sharma,Hair Serum ,L'Oreal,899,COD,899,Cancelled
+ORD-1380,03-May-26,2,Anjali Gupta,Moisturizer,Nivea,499,UPI,998,Delivered
+ORD-1381,04-May-26,1,Karan Mehta,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1382,04-May-26,3,Sneha Jain,Kajal,Maybelline,399,UPI,1197,Delivered
+ORD-1383,05-May-26,2,Varun Sharma,Face Serum ,Plum,599,COD,1198,Delivered
+ORD-1384,05-May-26,1,Riya Gupta,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1385,06-May-26,2,Mohit Jain,Conditioner ,Dove,399,Credit Card,798,Cancelled
+ORD-1386,06-May-26,1,Pooja Sharma,Hand Wash,Dettol,199,COD,199,Delivered
+ORD-1387,07-May-26,3,Deepak Gupta,Hair Mask ,Mamaearth,599,UPI,1797,Delivered
+ORD-1388,07-May-26,2,Nisha Verma,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1389,08-May-26,1,Arjun Mehta,Face Wash ,CeraVe,799,COD,799,Delivered
+ORD-1390,08-May-26,2,Kavita Jain,Eyeliner,Lakme,399,UPI,798,Delivered
+ORD-1391,09-May-26,3,Manish Kapoor,Body Scrub ,Dove,549,Credit Card,1647,Delivered
+ORD-1392,09-May-26,1,Simran Kaur,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1393,10-May-26,2,Raj Malhotra,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1394,10-May-26,1,Tanu Singh,Makeup Remover,Garnier,299,Credit Card,299,Delivered
+ORD-1395,11-May-26,3,Rohit Bansal,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1396,11-May-26,2,Shweta Gupta,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1397,12-May-26,1,Vaha Mehta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1398,12-May-26,2,Akash Verma,Face Toner ,Plum,399,COD,798,Delivered
+ORD-1399,13-May-26,1,Divya Sharma,Primer,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-1400,13-May-26,3,Nitin Kumar,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1401,14-May-26,2,Ritu Jain,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-1402,14-May-26,1,Gaurav Sethi,Foundation,Lakme,699,UPI,699,Delivered
+ORD-1403,15-May-26,2,Preeti Agarwal,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-1404,15-May-26,1,Saurabh Arora,Body Wash ,Nivea,449,COD,449,Delivered
+ORD-1405,16-May-26,3,Monica Jain,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1406,16-May-26,2,Harish Mehta,Mascara ,Maybelline,599,UPI,1198,Cancelled
+ORD-1407,17-May-26,1,Komal Sharma,Hand Cream,Nivea,249,COD,249,Delivered
+ORD-1408,17-May-26,2,Akshay Kapoor,Hair Shampoo ,L'Oreal,599,Credit Card,1198,Delivered
+ORD-1409,18-May-26,1,Isha Gupta,BB Cream ,Garnier,499,UPI,499,Delivered
+ORD-1410,18-May-26,3,Sameer Khan,Face Wash ,Mamaearth,499,COD,1497,Delivered
+ORD-1411,19-May-26,2,Sonal Mehta,Nail Polish ,Lakme,199,UPI,398,Delivered
+ORD-1412,19-May-26,1,Abhishek Jain,Hair Spray,L'Oreal,699,Credit Card,699,Cancelled
+ORD-1413,20-May-26,2,Payal Gupta,Moisturizer ,Cetaphil,799,UPI,1598,Delivered
+ORD-1414,20-May-26,1,Yash Verma,Cleansing Balm ,Dot & Key,599,COD,599,Delivered
+ORD-1415,21-May-26,3,Nandini Sharma,Sunscreen,Minimalist,599,UPI,1797,Delivered
+ORD-1416,21-May-26,2,Rakesh Jain,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1417,22-May-26,1,Meena Joshi,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1418,22-May-26,2,Tarun Bansal,Hair Serum ,Strea,399,UPI,798,Delivered
+ORD-1419,23-May-26,1,Muskan Verma,Concealer ,Maybelline,599,COD,599,Cancelled
+ORD-1420,23-May-26,3,Vivek Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1421,24-May-26,2,Sakshi Jain,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1422,24-May-26,1,Rajat Gupta,Lipstick,Maybelline,699,COD,699,Delivered
+ORD-1423,25-May-26,2,Tina Sharma,Shampoo ,Tresemme,499,UPI,998,Delivered
+ORD-1424,25-May-26,1,Nikhil Mehta,Body Scrub ,Plum,549,Credit Card,549,Delivered
+ORD-1425,26-May-26,3,Rhea Kapoor,Face Serum ,Minimalist,599,UPI,1797,Cancelled
+ORD-1426,26-May-26,1,Sandeep Jain,Eyebrow Pencil,Lakme,299,COD,299,Delivered
+ORD-1427,27-May-26,2,Aarti Sharma,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1428,27-May-26,1,Manav Kapoor,Hair Oil ,Indulekha,599,Credit Card,599,Delivered
+ORD-1429,28-May-26,2,Rachna Gupta,Face Cream ,Olay,899,COD,1798,Delivered
+ORD-1430,28-May-26,1,Suresh Kumar,Lip Gloss,Lakme,499,UPI,499,Delivered
+ORD-1431,29-May-26,3,Divya Mehta,Shampoo ,Pantene,399,UPI,1197,Delivered
+ORD-1432,29-May-26,2,Mohan Gupta,Face Wash ,Himalaya,249,COD,498,Cancelled
+ORD-1433,30-May-26,1,Priti Sharma,Sunscreen ,Dot & Key,699,Credit Card,699,Delivered
+ORD-1434,30-May-26,2,Varun Jain,Moisturizer,Plum,499,UPI,998,Delivered
+ORD-1435,31-May-26,1,Ananya Gupta,Shampoo ,Sunsilk,299,COD,299,Delivered
+ORD-1436,31-May-26,2,Karan Mehta,Face Wash ,Himalaya,199,UPI,398,Delivered
+ORD-1437,01-May-26,3,Pankaj Sharma,Body Wash ,Dove,449,Credit Card,1347,Delivered
+ORD-1438,01-May-26,1,Swati Jain,Kajal ,Lakme,399,COD,399,Cancelled
+ORD-1439,02-May-26,2,Ashish Gupta,Face Serum ,Plum,599,UPI,1198,Delivered
+ORD-1440,02-May-26,1,Reena Kapoor,Hair Mask ,L'Oreal,799,Credit Card,799,Delivered
+ORD-1441,03-May-26,2,Dev Sharma,Foundation ,Maybelline,699,COD,1398,Delivered
+ORD-1442,03-May-26,1,Shikha Gupta,Makeup Remover,Garnier,299,UPI,299,Delivered
+ORD-1443,04-May-26,3,Yuvraj Mehta,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1444,04-May-26,2,Mehak Jain,Conditioner ,Dove,399,COD,798,Cancelled
+ORD-1445,05-May-26,1,Rakesh Gupta,Night Cream ,Olay,899,Credit Card,899,Delivered
+ORD-1446,05-May-26,2,Asha Sharma,Face Toner ,Plum,399,UPI,798,Delivered
+ORD-1447,06-May-26,1,Naman Jain,Body Lotion ,Vaseline,399,COD,399,Delivered
+ORD-1448,06-May-26,3,Radhika Mehta,Lipstick,Lakme,699,UPI,2097,Delivered
+ORD-1449,07-May-26,2,Hahit Sharma,Shampoo ,Mamaearth,549,Credit Card,1098,Delivered
+ORD-1450,07-May-26,1,Mansi Gupta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1451,08-May-26,2,Arvind Mehta,Face Wash ,CeraVe,799,UPI,1598,Delivered
+ORD-1452,08-May-26,1,Kavya Jain,Hair Oil ,Parachute,299,COD,299,Delivered
+ORD-1453,09-May-26,3,Rohit Gupta,Moisturizer ,Cetaphil,799,Credit Card,2397,Delivered
+ORD-1454,09-May-26,2,Shreya Sharma,Mascara ,Maybelline,599,UPI,1198,Delivered
+ORD-1455,10-May-26,1,Aakash Mehta,Face Mask,Mamaearth,399,COD,399,Delivered
+ORD-1456,10-May-26,2,Poonam Jain,Hair Serum ,Strea,399,UPI,798,Cancelled
+ORD-1457,11-May-26,1,Kunal Gupta,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1458,11-May-26,3,Neelam Sharma,Body Scrub ,Dove,549,COD,1647,Delivered
+ORD-1459,12-May-26,2,Saurabh Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1460,12-May-26,1,Priyanka Mehta,Lip Balm ,Nivea,199,COD,199,Delivered
+ORD-1461,13-May-26,2,Manish Sharma,Face Cream ,Olay,899,Credit Card,1798,Delivered
+ORD-1462,13-May-26,1,Isha Jain,Nail Polish ,Lakme,199,UPI,199,Cancelled
+ORD-1463,14-May-26,3,Gaurav Gupta,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1464,14-May-26,2,Sonali Sharma,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1465,15-May-26,1,Amit Jain,Cleansing Balm ,Dot & Key,599,Credit Card,599,Delivered
+ORD-1466,15-May-26,2,Ritu Gupta,Face Serum ,The Ordinary,999,UPI,1998,Delivered
+ORD-1467,16-May-26,1,Vaha Jain,Eyeliner ,Lakme,399,COD,399,Cancelled
+ORD-1468,16-May-26,3,Akash Sharma,Hair Spray ,L'Oreal,699,UPI,2097,Delivered
+ORD-1469,17-May-26,2,Monica Gupta,Moisturizer ,Nivea,499,Credit Card,998,Delivered
+ORD-1470,17-May-26,1,Sameer Mehta,Face Scrub ,Biotique,299,COD,299,Delivered
+ORD-1471,18-May-26,2,Nidhi Jain,Sunscreen ,Dot & Key,699,UPI,1398,Delivered
+ORD-1472,18-May-26,1,Vikas Sharma,Lip Liner ,Swiss Beauty,249,Credit Card,249,Delivered
+ORD-1473,19-May-26,3,Payal Jain,Body Wash ,Nivea,449,COD,1347,Cancelled
+ORD-1474,19-May-26,2,Rajesh Gupta,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1475,20-May-26,1,Neha Sharma,Face Wash ,Mamaearth,499,UPI,499,Delivered
+ORD-1476,20-May-26,2,Rahul Mehta,Shampoo,L'Oreal,599,COD,1198,Delivered
+ORD-1477,21-May-26,3,Pooja Gupta,Sunscreen ,Dot & Key,699,UPI,2097,Delivered
+ORD-1478,21-May-26,1,Karan Jain,Lipstick ,Maybelline,699,Credit Card,699,Delivered
+ORD-1479,22-May-26,2,Riya Sharma,Hair Serum ,Strea,399,COD,798,Cancelled
+ORD-1480,22-May-26,1,Amit Kapoor,Moisturizer ,Plum,499,UPI,499,Delivered
+ORD-1481,23-May-26,2,Shweta Mehta,Body Lotion,Vaseline,399,Credit Card,798,Delivered
+ORD-1482,23-May-26,1,Mohit Gupta,Kajal ,Lakme,399,UPI,399,Delivered
+ORD-1483,24-May-26,3,Nisha Jain,Face Serum ,Minimalist,599,COD,1797,Delivered
+ORD-1484,24-May-26,2,Arjun Sharma,Compact Powder,Maybelline,499,UPI,998,Delivered
+ORD-1485,25-May-26,1,Divya Mehta,Conditioner ,Dove,399,Credit Card,399,Cancelled
+ORD-1486,25-May-26,2,Raj Gupta,Hand Wash ,Dettol,199,COD,398,Delivered
+ORD-1487,26-May-26,3,Simran Sharma,Hair Mask,Mamaearth,599,UPI,1797,Delivered
+ORD-1488,26-May-26,1,Varun Jain,Blush ,Swiss Beauty,349,Credit Card,349,Delivered
+ORD-1489,27-May-26,2,Kavita Gupta,Face Wash ,CeraVe,799,COD,1598,Delivered
+ORD-1490,27-May-26,1,Manish Mehta,Eyeliner ,Lakme,399,UPI,399,Delivered
+ORD-1491,28-May-26,2,Preeti Jain,Body Scrub ,Plum,549,Credit Card,1098,Delivered
+ORD-1492,28-May-26,1,Saurabh Sharma,Hair Oil,Indulekha,599,COD,599,Cancelled
+ORD-1493,29-May-26,3,Ritu Mehta,Night Cream ,Olay,899,UPI,2697,Delivered
+ORD-1494,29-May-26,2,Akash Gupta,Makeup Remover ,Garnier,299,Credit Card,598,Delivered
+ORD-1495,30-May-26,1,Anjali Sharma,Shampoo ,Pantene,399,COD,399,Delivered
+ORD-1496,30-May-26,2,Deepak Jain,Conditioner,Tresemme,499,UPI,998,Delivered
+ORD-1497,31-May-26,3,Sonal Gupta,Lip Balm ,Nivea,199,UPI,597,Delivered
+ORD-1498,31-May-26,1,Rohit Mehta,Face Toner ,Plum,399,COD,399,Delivered
+ORD-1499,20-May-26,2,Isha Sharma,Primer ,Swiss Beauty,499,Credit Card,998,Cancelled
+ORD-1500,20-May-26,1,Nitin Gupta,Sunscreen,Aqualogica,699,UPI,699,Delivered
+ORD-1501,21-May-26,3,Priya Jain,Face Scrub ,Biotique,299,COD,897,Delivered
+ORD-1502,21-May-26,2,Gaurav Sharma,Foundation ,Lakme,699,UPI,1398,Delivered
+ORD-1503,22-May-26,1,Rakesh Mehta,Hair Conditioner ,Dove,399,Credit Card,399,Delivered
+ORD-1504,22-May-26,2,Neha Gupta,Body Wash,Nivea,449,COD,898,Delivered
+ORD-1505,23-May-26,3,Manav Sharma,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1506,23-May-26,1,Shikha Jain,Mascara ,Maybelline,599,UPI,599,Cancelled
+ORD-1507,24-May-26,2,Yash Gupta,Hand Cream ,Nivea,249,COD,498,Delivered
+ORD-1508,24-May-26,1,Monica Mehta,Hair Shampoo,L'Oreal,599,Credit Card,599,Delivered
+ORD-1509,25-May-26,3,Ashish Sharma,BB Cream ,Garnier,499,UPI,1497,Delivered
+ORD-1510,25-May-26,2,Reena Gupta,Face Wash ,Mamaearth,499,COD,998,Delivered
+ORD-1511,26-May-26,1,Sameer Jain,Nail Polish,Lakme,199,UPI,199,Delivered
+ORD-1512,26-May-26,3,Kavya Sharma,Hair Spray ,L'Oreal,699,Credit Card,2097,Cancelled
+ORD-1513,27-May-26,2,Abhishek Gupta,Moisturizer ,Cetaphil,799,COD,1598,Delivered
+ORD-1514,27-May-26,1,Payal Mehta,Cleansing Balm,Dot & Key,599,UPI,599,Delivered
+ORD-1515,28-May-26,2,Tarun Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1516,28-May-26,1,Aarti Gupta,Lip Liner ,Swiss Beauty,249,COD,249,Delivered
+ORD-1517,29-May-26,3,Harish Sharma,Face Mask ,Mamaearth,399,Credit Card,1197,Delivered
+ORD-1518,29-May-26,2,Meenal Jain,Hair Serum,Strea,399,UPI,798,Cancelled
+ORD-1519,30-May-26,1,Kunal Gupta,Concealer ,Maybelline,599,COD,599,Delivered
+ORD-1520,30-May-26,2,Radhika Sharma,Body Lotion ,Nivea,449,UPI,898,Delivered
+ORD-1521,31-May-26,3,Sandeep Mehta,Face Wash ,Neutrogena,699,Credit Card,2097,Delivered
+ORD-1522,31-May-26,1,Tina Gupta,Lip Gloss,Lakme,499,COD,499,Delivered
+ORD-1523,20-May-26,2,Nikhil Sharma,Shampoo ,Sunsilk,299,UPI,598,Cancelled
+ORD-1524,20-May-26,1,Poonam Jain,Hair Oil ,Parachute,299,Credit Card,299,Delivered
+ORD-1525,21-May-26,3,Arvind Gupta,Face Cream ,Olay,899,UPI,2697,Delivered
+ORD-1526,21-May-26,2,Shreya Mehta,Kajal ,Maybelline,399,COD,798,Delivered
+ORD-1527,22-May-26,1,Aman Sharma,Hand Wash,Dettol,199,UPI,199,Delivered
+ORD-1528,22-May-26,2,Nandini Gupta,Body Scrub ,Dove,549,Credit Card,1098,Delivered
+ORD-1529,23-May-26,3,Vaha Jain,Sunscreen ,Aqualogica,699,COD,2097,Cancelled
+ORD-1530,23-May-26,1,Rajat Sharma,Eyebrow Pencil,Lakme,299,UPI,299,Delivered
+ORD-1531,24-May-26,2,Mansi Gupta,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1532,24-May-26,1,Dev Mehta,Hair Mask ,L'Oreal,799,COD,799,Delivered
+ORD-1533,25-May-26,3,Swati Sharma,Face Serum ,Plum,599,Credit Card,1797,Delivered
+ORD-1534,25-May-26,2,Karan Gupta,Foundation,Maybelline,699,UPI,1398,Delivered
+ORD-1535,26-May-26,1,Shalini Jain,Makeup Remover ,Garnier,299,COD,299,Cancelled
+ORD-1536,26-May-26,2,Vikas Sharma,Moisturizer ,Nivea,499,UPI,998,Delivered
+ORD-1537,27-May-26,3,Rhea Gupta,Shampoo ,Head & Shoulde,449,Credit Card,1347,Delivered
+ORD-1538,27-May-26,1,Saurabh Mehta,Face Toner,Plum,399,COD,399,Delivered
+ORD-1539,28-May-26,2,Ayesha Sharma,Lipstick ,Lakme,699,UPI,1398,Delivered
+ORD-1540,28-May-26,1,Mohan Jain,Hair Serum ,Strea,399,Credit Card,399,Cancelled
+ORD-1541,29-May-26,2,Priyanka Gupta,Face Wash ,Himalaya,249,COD,498,Delivered
+ORD-1542,29-May-26,1,Rajesh Mehta,Sunscreen,Dot & Key,699,UPI,699,Delivered
+ORD-1543,30-May-26,3,Mehak Sharma,Body Wash ,Dove,449,UPI,1347,Delivered
+ORD-1544,30-May-26,2,Ashok Gupta,Face Cream ,Nivea,449,Credit Card,898,Delivered
+ORD-1545,31-May-26,1,Nisha Mehta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1546,31-May-26,2,Rohan Gupta,Hair Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1547,20-May-26,3,Kavita Sharma,Face Serum ,Minimalist,599,Credit Card,1797,Delivered
+ORD-1548,20-May-26,1,Manish Jain,Lip Balm,Nivea,199,COD,199,Delivered
+ORD-1549,21-May-26,2,Ananya Mehta,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1550,21-May-26,1,Suresh Gupta,Hair Oil ,Indulekha,599,UPI,599,Cancelled
+ORD-1551,22-May-26,3,Ritu Sharma,Face Wash ,CeraVe,799,COD,2397,Delivered
+ORD-1552,22-May-26,2,Akash Jain,Mascara,Maybelline,599,Credit Card,1198,Delivered
+ORD-1553,23-May-26,1,Sonal Mehta,Hand Cream ,Nivea,249,UPI,249,Delivered
+ORD-1554,23-May-26,2,Deepak Sharma,Hair Spray ,L'Oreal,699,COD,1398,Delivered
+ORD-1555,24-May-26,3,Isha Gupta,Sunscreen ,Minimalist,599,UPI,1797,Cancelled
+ORD-1556,24-May-26,1,Varun Mehta,Face Scrub,Biotique,299,Credit Card,299,Delivered
+ORD-1557,25-May-26,2,Priti Sharma,Shampoo ,Mamaearth,549,COD,1098,Delivered
+ORD-1558,25-May-26,1,Gaurav Jain,Cleansing Balm ,Dot & Key,599,UPI,599,Delivered
+ORD-1559,26-May-26,3,Monica Gupta,Lip Gloss,Lakme,499,UPI,1497,Delivered
+ORD-1560,26-May-26,2,Hahit Mehta,Body Lotion ,Vaseline,399,Credit Card,798,Cancelled
+ORD-1561,27-May-26,1,Neelam Jain,Eyeliner ,Lakme,399,COD,399,Delivered
+ORD-1562,27-May-26,2,Nitin Sharma,Moisturizer ,Plum,499,UPI,998,Delivered
+ORD-1563,28-May-26,3,Rachna Gupta,Foundation ,Lakme,699,Credit Card,2097,Delivered
+ORD-1564,28-May-26,1,Yash Jain,Hair Mask ,Mamaearth,599,COD,599,Delivered
+ORD-1565,29-May-26,2,Preeti Sharma,Face Toner,Plum,399,UPI,798,Cancelled
+ORD-1566,29-May-26,1,Mohit Gupta,Body Scrub ,Plum,549,UPI,549,Delivered
+ORD-1567,30-May-26,3,Shweta Jain,Sunscreen ,Aqualogica,699,COD,2097,Delivered
+ORD-1568,30-May-26,2,Kunal Sharma,Face Wash ,Cetaphil,699,Credit Card,1398,Delivered
+ORD-1569,31-May-26,1,Aarti Mehta,Nail Polish,Lakme,199,UPI,199,Cancelled
+ORD-1570,31-May-26,2,Rakesh Gupta,Conditioner ,Dove,399,COD,798,Delivered
+ORD-1571,20-May-26,3,Divya Jain,Hair Serum ,L'Oreal,899,UPI,2697,Delivered
+ORD-1572,21-May-26,1,Sameer Gupta,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1573,22-May-26,2,Sakshi Sharma,Lipstick,Maybelline,699,COD,1398,Delivered
+ORD-1574,23-May-26,1,Tarun Mehta,Sunscreen ,Dot & Key,699,UPI,699,Cancelled
+ORD-1575,24-May-26,2,Rahul Sharma,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1576,24-May-26,1,Priya Gupta,Shampoo,Mamaearth,549,COD,549,Delivered
+ORD-1577,25-May-26,3,Amit Verma,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1578,25-May-26,2,Neha Singh,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1579,26-May-26,1,Rohan Mehta,Hair Serum ,L'Oreal,899,COD,899,Cancelled
+ORD-1580,26-May-26,2,Anjali Jain,Moisturizer,Nivea,499,UPI,998,Delivered
+ORD-1581,27-May-26,1,Karan Sharma,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1582,27-May-26,3,Sneha Kapoor,Kajal,Maybelline,399,UPI,1197,Delivered
+ORD-1583,28-May-26,2,Varun Gupta,Face Serum ,Plum,599,COD,1198,Delivered
+ORD-1584,28-May-26,1,Riya Mehta,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1585,29-May-26,2,Mohit Jain,Conditioner ,Dove,399,Credit Card,798,Cancelled
+ORD-1586,29-May-26,1,Pooja Sharma,Hand Wash,Dettol,199,COD,199,Delivered
+ORD-1587,30-May-26,3,Deepak Gupta,Hair Mask ,Mamaearth,599,UPI,1797,Delivered
+ORD-1588,30-May-26,2,Nisha Verma,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1589,31-May-26,1,Arjun Mehra,Face Wash ,CeraVe,799,COD,799,Delivered
+ORD-1590,31-May-26,2,Kavita Jain,Eyeliner,Lakme,399,UPI,798,Delivered
+ORD-1591,24-May-26,3,Manish Kapoor,Body Scrub ,Dove,549,Credit Card,1647,Delivered
+ORD-1592,24-May-26,1,Simran Kaur,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1593,25-May-26,2,Raj Malhotra,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1594,25-May-26,1,Tanu Singh,Makeup Remover,Garnier,299,Credit Card,299,Delivered
+ORD-1595,26-May-26,3,Rohit Bansal,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1596,26-May-26,2,Shweta Gupta,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1597,27-May-26,1,Vaha Mehta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1598,27-May-26,2,Akash Verma,Face Toner ,Plum,399,COD,798,Delivered
+ORD-1599,28-May-26,1,Divya Sharma,Primer,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-1600,28-May-26,3,Nitin Kumar,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1601,29-May-26,2,Ritu Jain,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-1602,29-May-26,1,Gaurav Sethi,Foundation,Lakme,699,UPI,699,Delivered
+ORD-1603,30-May-26,2,Preeti Agarwal,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-1604,30-May-26,1,Saurabh Arora,Body Wash ,Nivea,449,COD,449,Delivered
+ORD-1605,31-May-26,3,Monica Jain,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1606,31-May-26,2,Harish Mehta,Mascara ,Maybelline,599,UPI,1198,Cancelled
+ORD-1607,24-May-26,1,Komal Sharma,Hand Cream,Nivea,249,COD,249,Delivered
+ORD-1608,24-May-26,2,Akshay Kapoor,Hair Shampoo ,L'Oreal,599,Credit Card,1198,Delivered
+ORD-1609,25-May-26,1,Isha Gupta,BB Cream ,Garnier,499,UPI,499,Delivered
+ORD-1610,25-May-26,3,Sameer Khan,Face Wash ,Mamaearth,499,COD,1497,Delivered
+ORD-1611,26-May-26,2,Sonal Mehta,Nail Polish ,Lakme,199,UPI,398,Delivered
+ORD-1612,26-May-26,1,Abhishek Jain,Hair Spray,L'Oreal,699,Credit Card,699,Cancelled
+ORD-1613,27-May-26,2,Payal Gupta,Moisturizer ,Cetaphil,799,UPI,1598,Delivered
+ORD-1614,27-May-26,1,Yash Verma,Cleansing Balm ,Dot & Key,599,COD,599,Delivered
+ORD-1615,28-May-26,3,Nandini Sharma,Sunscreen,Minimalist,599,UPI,1797,Delivered
+ORD-1616,28-May-26,2,Rakesh Jain,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1617,29-May-26,1,Meena Joshi,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1618,29-May-26,2,Tarun Bansal,Hair Serum ,Strea,399,UPI,798,Delivered
+ORD-1619,30-May-26,1,Muskan Verma,Concealer ,Maybelline,599,COD,599,Cancelled
+ORD-1620,30-May-26,3,Vivek Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1621,31-May-26,2,Sakshi Jain,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1622,31-May-26,1,Rajat Gupta,Lipstick,Maybelline,699,COD,699,Delivered
+ORD-1623,24-May-26,2,Tina Sharma,Shampoo ,Tresemme,499,UPI,998,Delivered
+ORD-1624,24-May-26,1,Nikhil Mehta,Body Scrub ,Plum,549,Credit Card,549,Delivered
+ORD-1625,25-May-26,3,Rhea Kapoor,Face Serum ,Minimalist,599,UPI,1797,Cancelled
+ORD-1626,25-May-26,1,Sandeep Jain,Eyebrow Pencil,Lakme,299,COD,299,Delivered
+ORD-1627,26-May-26,2,Aarti Sharma,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1628,26-May-26,1,Manav Kapoor,Hair Oil ,Indulekha,599,Credit Card,599,Delivered
+ORD-1629,27-May-26,2,Rachna Gupta,Face Cream ,Olay,899,COD,1798,Delivered
+ORD-1630,27-May-26,1,Suresh Kumar,Lip Gloss,Lakme,499,UPI,499,Delivered
+ORD-1631,28-May-26,3,Divya Mehta,Shampoo ,Pantene,399,UPI,1197,Delivered
+ORD-1632,28-May-26,2,Mohan Gupta,Face Wash ,Himalaya,249,COD,498,Cancelled
+ORD-1633,29-May-26,1,Priti Sharma,Sunscreen ,Dot & Key,699,Credit Card,699,Delivered
+ORD-1634,29-May-26,2,Varun Jain,Moisturizer,Plum,499,UPI,998,Delivered
+ORD-1635,30-May-26,1,Ananya Gupta,Shampoo ,Sunsilk,299,COD,299,Delivered
+ORD-1636,30-May-26,2,Karan Mehta,Face Wash ,Himalaya,199,UPI,398,Delivered
+ORD-1637,31-May-26,3,Pankaj Sharma,Body Wash ,Dove,449,Credit Card,1347,Delivered
+ORD-1638,31-May-26,1,Swati Jain,Kajal ,Lakme,399,COD,399,Cancelled
+ORD-1639,24-May-26,2,Ashish Gupta,Face Serum ,Plum,599,UPI,1198,Delivered
+ORD-1640,24-May-26,1,Reena Kapoor,Hair Mask ,L'Oreal,799,Credit Card,799,Delivered
+ORD-1641,25-May-26,2,Dev Sharma,Foundation ,Maybelline,699,COD,1398,Delivered
+ORD-1642,25-May-26,1,Shikha Gupta,Makeup Remover,Garnier,299,UPI,299,Delivered
+ORD-1643,26-May-26,3,Yuvraj Mehta,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1644,26-May-26,2,Mehak Jain,Conditioner ,Dove,399,COD,798,Cancelled
+ORD-1645,27-May-26,1,Rakesh Gupta,Night Cream ,Olay,899,Credit Card,899,Delivered
+ORD-1646,27-May-26,2,Asha Sharma,Face Toner ,Plum,399,UPI,798,Delivered
+ORD-1647,28-May-26,1,Naman Jain,Body Lotion ,Vaseline,399,COD,399,Delivered
+ORD-1648,28-May-26,3,Radhika Mehta,Lipstick,Lakme,699,UPI,2097,Delivered
+ORD-1649,29-May-26,2,Hahit Sharma,Shampoo ,Mamaearth,549,Credit Card,1098,Delivered
+ORD-1650,29-May-26,1,Mansi Gupta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1651,30-May-26,2,Arvind Mehta,Face Wash ,CeraVe,799,UPI,1598,Delivered
+ORD-1652,30-May-26,1,Kavya Jain,Hair Oil ,Parachute,299,COD,299,Delivered
+ORD-1653,31-May-26,3,Rohit Gupta,Moisturizer ,Cetaphil,799,Credit Card,2397,Delivered
+ORD-1654,31-May-26,2,Shreya Sharma,Mascara ,Maybelline,599,UPI,1198,Delivered
+ORD-1655,24-May-26,1,Aakash Mehta,Face Mask,Mamaearth,399,COD,399,Delivered
+ORD-1656,24-May-26,2,Poonam Jain,Hair Serum ,Strea,399,UPI,798,Cancelled
+ORD-1657,25-May-26,1,Kunal Gupta,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1658,25-May-26,3,Neelam Sharma,Body Scrub ,Dove,549,COD,1647,Delivered
+ORD-1659,26-May-26,2,Saurabh Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1660,26-May-26,1,Priyanka Mehta,Lip Balm ,Nivea,199,COD,199,Delivered
+ORD-1661,27-May-26,2,Manish Sharma,Face Cream ,Olay,899,Credit Card,1798,Delivered
+ORD-1662,27-May-26,1,Isha Jain,Nail Polish ,Lakme,199,UPI,199,Cancelled
+ORD-1663,28-May-26,3,Gaurav Gupta,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1664,28-May-26,2,Sonali Sharma,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1665,29-May-26,1,Amit Jain,Cleansing Balm ,Dot & Key,599,Credit Card,599,Delivered
+ORD-1666,29-May-26,2,Ritu Gupta,Face Serum ,The Ordinary,999,UPI,1998,Delivered
+ORD-1667,30-May-26,1,Vaha Jain,Eyeliner ,Lakme,399,COD,399,Cancelled
+ORD-1668,30-May-26,3,Akash Sharma,Hair Spray ,L'Oreal,699,UPI,2097,Delivered
+ORD-1669,31-May-26,2,Monica Gupta,Moisturizer ,Nivea,499,Credit Card,998,Delivered
+ORD-1670,31-May-26,1,Sameer Mehta,Face Scrub ,Biotique,299,COD,299,Delivered
+ORD-1671,24-May-26,2,Nidhi Jain,Sunscreen ,Dot & Key,699,UPI,1398,Delivered
+ORD-1672,25-May-26,1,Vikas Sharma,Lip Liner ,Swiss Beauty,249,Credit Card,249,Delivered
+ORD-1673,26-May-26,3,Payal Jain,Body Wash ,Nivea,449,COD,1347,Cancelled
+ORD-1674,27-May-26,2,Rajesh Gupta,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1675,01-Apr-26,2,Rahul Sharma,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1676,01-Apr-26,1,Priya Gupta,Shampoo,Mamaearth,549,COD,549,Delivered
+ORD-1677,02-Apr-26,3,Amit Verma,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1678,02-Apr-26,2,Neha Singh,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1679,03-Apr-26,1,Rohan Mehta,Hair Serum ,L'Oreal,899,COD,899,Cancelled
+ORD-1680,03-Apr-26,2,Anjali Jain,Moisturizer,Nivea,499,UPI,998,Delivered
+ORD-1681,04-Apr-26,1,Karan Sharma,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1682,04-Apr-26,3,Sneha Kapoor,Kajal,Maybelline,399,UPI,1197,Delivered
+ORD-1683,05-Apr-26,2,Varun Gupta,Face Serum ,Plum,599,COD,1198,Delivered
+ORD-1684,05-Apr-26,1,Riya Mehta,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1685,06-Apr-26,2,Mohit Jain,Conditioner ,Dove,399,Credit Card,798,Cancelled
+ORD-1686,06-Apr-26,1,Pooja Sharma,Hand Wash,Dettol,199,COD,199,Delivered
+ORD-1687,07-Apr-26,3,Deepak Gupta,Hair Mask ,Mamaearth,599,UPI,1797,Delivered
+ORD-1688,07-Apr-26,2,Nisha Verma,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1689,08-Apr-26,1,Arjun Mehra,Face Wash ,CeraVe,799,COD,799,Delivered
+ORD-1690,08-Apr-26,2,Kavita Jain,Eyeliner,Lakme,399,UPI,798,Delivered
+ORD-1691,09-Apr-26,3,Manish Kapoor,Body Scrub ,Dove,549,Credit Card,1647,Delivered
+ORD-1692,09-Apr-26,1,Simran Kaur,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1693,10-Apr-26,2,Raj Malhotra,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1694,10-Apr-26,1,Tanu Singh,Makeup Remover,Garnier,299,Credit Card,299,Delivered
+ORD-1695,11-Apr-26,3,Rohit Bansal,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1696,11-Apr-26,2,Shweta Gupta,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1697,12-Apr-26,1,Vaha Mehta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1698,12-Apr-26,2,Akash Verma,Face Toner ,Plum,399,COD,798,Delivered
+ORD-1699,13-Apr-26,1,Divya Sharma,Primer,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-1700,13-Apr-26,3,Nitin Kumar,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1701,14-Apr-26,2,Ritu Jain,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-1702,14-Apr-26,1,Gaurav Sethi,Foundation,Lakme,699,UPI,699,Delivered
+ORD-1703,15-Apr-26,2,Preeti Agarwal,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-1704,15-Apr-26,1,Saurabh Arora,Body Wash ,Nivea,449,COD,449,Delivered
+ORD-1705,16-Apr-26,3,Monica Jain,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1706,16-Apr-26,2,Harish Mehta,Mascara ,Maybelline,599,UPI,1198,Cancelled
+ORD-1707,17-Apr-26,1,Komal Sharma,Hand Cream,Nivea,249,COD,249,Delivered
+ORD-1708,17-Apr-26,2,Akshay Kapoor,Hair Shampoo ,L'Oreal,599,Credit Card,1198,Delivered
+ORD-1709,18-Apr-26,1,Isha Gupta,BB Cream ,Garnier,499,UPI,499,Delivered
+ORD-1710,18-Apr-26,3,Sameer Khan,Face Wash ,Mamaearth,499,COD,1497,Delivered
+ORD-1711,19-Apr-26,2,Sonal Mehta,Nail Polish ,Lakme,199,UPI,398,Delivered
+ORD-1712,19-Apr-26,1,Abhishek Jain,Hair Spray,L'Oreal,699,Credit Card,699,Cancelled
+ORD-1713,20-Apr-26,2,Payal Gupta,Moisturizer ,Cetaphil,799,UPI,1598,Delivered
+ORD-1714,20-Apr-26,1,Yash Verma,Cleansing Balm ,Dot & Key,599,COD,599,Delivered
+ORD-1715,21-Apr-26,3,Nandini Sharma,Sunscreen,Minimalist,599,UPI,1797,Delivered
+ORD-1716,21-Apr-26,2,Rakesh Jain,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1717,22-Apr-26,1,Meena Joshi,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1718,22-Apr-26,2,Tarun Bansal,Hair Serum ,Strea,399,UPI,798,Delivered
+ORD-1719,23-Apr-26,1,Muskan Verma,Concealer ,Maybelline,599,COD,599,Cancelled
+ORD-1720,23-Apr-26,3,Vivek Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1721,24-Apr-26,2,Sakshi Jain,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1722,24-Apr-26,1,Rajat Gupta,Lipstick,Maybelline,699,COD,699,Delivered
+ORD-1723,25-Apr-26,2,Tina Sharma,Shampoo ,Tresemme,499,UPI,998,Delivered
+ORD-1724,25-Apr-26,1,Nikhil Mehta,Body Scrub ,Plum,549,Credit Card,549,Delivered
+ORD-1725,26-Apr-26,3,Rhea Kapoor,Face Serum ,Minimalist,599,UPI,1797,Cancelled
+ORD-1726,26-Apr-26,1,Sandeep Jain,Eyebrow Pencil,Lakme,299,COD,299,Delivered
+ORD-1727,27-Apr-26,2,Aarti Sharma,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1728,27-Apr-26,1,Manav Kapoor,Hair Oil ,Indulekha,599,Credit Card,599,Delivered
+ORD-1729,28-Apr-26,2,Rachna Gupta,Face Cream ,Olay,899,COD,1798,Delivered
+ORD-1730,28-Apr-26,1,Suresh Kumar,Lip Gloss,Lakme,499,UPI,499,Delivered
+ORD-1731,29-Apr-26,3,Divya Mehta,Shampoo ,Pantene,399,UPI,1197,Delivered
+ORD-1732,29-Apr-26,2,Mohan Gupta,Face Wash ,Himalaya,249,COD,498,Cancelled
+ORD-1733,30-Apr-26,1,Priti Sharma,Sunscreen ,Dot & Key,699,Credit Card,699,Delivered
+ORD-1734,30-Apr-26,2,Varun Jain,Moisturizer,Plum,499,UPI,998,Delivered
+ORD-1735,01-Apr-26,1,Ananya Gupta,Shampoo ,Sunsilk,299,COD,299,Delivered
+ORD-1736,01-Apr-26,2,Karan Mehta,Face Wash ,Himalaya,199,UPI,398,Delivered
+ORD-1737,02-Apr-26,3,Pankaj Sharma,Body Wash ,Dove,449,Credit Card,1347,Delivered
+ORD-1738,02-Apr-26,1,Swati Jain,Kajal ,Lakme,399,COD,399,Cancelled
+ORD-1739,03-Apr-26,2,Ashish Gupta,Face Serum ,Plum,599,UPI,1198,Delivered
+ORD-1740,03-Apr-26,1,Reena Kapoor,Hair Mask ,L'Oreal,799,Credit Card,799,Delivered
+ORD-1741,04-Apr-26,2,Dev Sharma,Foundation ,Maybelline,699,COD,1398,Delivered
+ORD-1742,04-Apr-26,1,Shikha Gupta,Makeup Remover,Garnier,299,UPI,299,Delivered
+ORD-1743,05-Apr-26,3,Yuvraj Mehta,Sunscreen ,Aqualogica,699,UPI,2097,Delivered
+ORD-1744,05-Apr-26,2,Mehak Jain,Conditioner ,Dove,399,COD,798,Cancelled
+ORD-1745,06-Apr-26,1,Rakesh Gupta,Night Cream ,Olay,899,Credit Card,899,Delivered
+ORD-1746,06-Apr-26,2,Asha Sharma,Face Toner ,Plum,399,UPI,798,Delivered
+ORD-1747,07-Apr-26,1,Naman Jain,Body Lotion ,Vaseline,399,COD,399,Delivered
+ORD-1748,07-Apr-26,3,Radhika Mehta,Lipstick,Lakme,699,UPI,2097,Delivered
+ORD-1749,08-Apr-26,2,Hahit Sharma,Shampoo ,Mamaearth,549,Credit Card,1098,Delivered
+ORD-1750,08-Apr-26,1,Mansi Gupta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1751,09-Apr-26,2,Arvind Mehta,Face Wash ,CeraVe,799,UPI,1598,Delivered
+ORD-1752,09-Apr-26,1,Kavya Jain,Hair Oil ,Parachute,299,COD,299,Delivered
+ORD-1753,10-Apr-26,3,Rohit Gupta,Moisturizer ,Cetaphil,799,Credit Card,2397,Delivered
+ORD-1754,10-Apr-26,2,Shreya Sharma,Mascara ,Maybelline,599,UPI,1198,Delivered
+ORD-1755,11-Apr-26,1,Aakash Mehta,Face Mask,Mamaearth,399,COD,399,Delivered
+ORD-1756,11-Apr-26,2,Poonam Jain,Hair Serum ,Strea,399,UPI,798,Cancelled
+ORD-1757,12-Apr-26,1,Kunal Gupta,BB Cream ,Garnier,499,Credit Card,499,Delivered
+ORD-1758,12-Apr-26,3,Neelam Sharma,Body Scrub ,Dove,549,COD,1647,Delivered
+ORD-1759,13-Apr-26,2,Saurabh Jain,Sunscreen ,Minimalist,599,UPI,1198,Delivered
+ORD-1760,13-Apr-26,1,Priyanka Mehta,Lip Balm ,Nivea,199,COD,199,Delivered
+ORD-1761,14-Apr-26,2,Manish Sharma,Face Cream ,Olay,899,Credit Card,1798,Delivered
+ORD-1762,14-Apr-26,1,Isha Jain,Nail Polish ,Lakme,199,UPI,199,Cancelled
+ORD-1763,15-Apr-26,3,Gaurav Gupta,Shampoo ,Head & Shoulde,449,COD,1347,Delivered
+ORD-1764,15-Apr-26,2,Sonali Sharma,Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1765,16-Apr-26,1,Amit Jain,Cleansing Balm ,Dot & Key,599,Credit Card,599,Delivered
+ORD-1766,16-Apr-26,2,Ritu Gupta,Face Serum ,The Ordinary,999,UPI,1998,Delivered
+ORD-1767,17-Apr-26,1,Vaha Jain,Eyeliner ,Lakme,399,COD,399,Cancelled
+ORD-1768,17-Apr-26,3,Akash Sharma,Hair Spray ,L'Oreal,699,UPI,2097,Delivered
+ORD-1769,18-Apr-26,2,Monica Gupta,Moisturizer ,Nivea,499,Credit Card,998,Delivered
+ORD-1770,18-Apr-26,1,Sameer Mehta,Face Scrub ,Biotique,299,COD,299,Delivered
+ORD-1771,19-Apr-26,2,Nidhi Jain,Sunscreen ,Dot & Key,699,UPI,1398,Delivered
+ORD-1772,19-Apr-26,1,Vikas Sharma,Lip Liner ,Swiss Beauty,249,Credit Card,249,Delivered
+ORD-1773,20-Apr-26,3,Payal Jain,Body Wash ,Nivea,449,COD,1347,Cancelled
+ORD-1774,21-Apr-26,2,Rajesh Gupta,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1775,21-Apr-26,1,Neha Sharma,Face Wash ,Mamaearth,499,UPI,499,Delivered
+ORD-1776,22-Apr-26,2,Rahul Mehta,Shampoo,L'Oreal,599,COD,1198,Delivered
+ORD-1777,22-Apr-26,3,Pooja Gupta,Sunscreen ,Dot & Key,699,UPI,2097,Delivered
+ORD-1778,23-Apr-26,1,Karan Jain,Lipstick ,Maybelline,699,Credit Card,699,Delivered
+ORD-1779,23-Apr-26,2,Riya Sharma,Hair Serum ,Strea,399,COD,798,Cancelled
+ORD-1780,24-Apr-26,1,Amit Kapoor,Moisturizer ,Plum,499,UPI,499,Delivered
+ORD-1781,24-Apr-26,2,Shweta Mehta,Body Lotion,Vaseline,399,Credit Card,798,Delivered
+ORD-1782,25-Apr-26,1,Mohit Gupta,Kajal ,Lakme,399,UPI,399,Delivered
+ORD-1783,25-Apr-26,3,Nisha Jain,Face Serum ,Minimalist,599,COD,1797,Delivered
+ORD-1784,26-Apr-26,2,Arjun Sharma,Compact Powder,Maybelline,499,UPI,998,Delivered
+ORD-1785,26-Apr-26,1,Divya Mehta,Conditioner ,Dove,399,Credit Card,399,Cancelled
+ORD-1786,27-Apr-26,2,Raj Gupta,Hand Wash ,Dettol,199,COD,398,Delivered
+ORD-1787,27-Apr-26,3,Simran Sharma,Hair Mask,Mamaearth,599,UPI,1797,Delivered
+ORD-1788,28-Apr-26,1,Varun Jain,Blush ,Swiss Beauty,349,Credit Card,349,Delivered
+ORD-1789,28-Apr-26,2,Kavita Gupta,Face Wash ,CeraVe,799,COD,1598,Delivered
+ORD-1790,29-Apr-26,1,Manish Mehta,Eyeliner ,Lakme,399,UPI,399,Delivered
+ORD-1791,29-Apr-26,2,Preeti Jain,Body Scrub ,Plum,549,Credit Card,1098,Delivered
+ORD-1792,30-Apr-26,1,Saurabh Sharma,Hair Oil,Indulekha,599,COD,599,Cancelled
+ORD-1793,30-Apr-26,3,Ritu Mehta,Night Cream ,Olay,899,UPI,2697,Delivered
+ORD-1794,21-Apr-26,2,Akash Gupta,Makeup Remover ,Garnier,299,Credit Card,598,Delivered
+ORD-1795,22-Apr-26,1,Anjali Sharma,Shampoo ,Pantene,399,COD,399,Delivered
+ORD-1796,22-Apr-26,2,Deepak Jain,Conditioner,Tresemme,499,UPI,998,Delivered
+ORD-1797,23-Apr-26,3,Sonal Gupta,Lip Balm ,Nivea,199,UPI,597,Delivered
+ORD-1798,23-Apr-26,1,Rohit Mehta,Face Toner ,Plum,399,COD,399,Delivered
+ORD-1799,24-Apr-26,2,Isha Sharma,Primer ,Swiss Beauty,499,Credit Card,998,Cancelled
+ORD-1800,24-Apr-26,1,Nitin Gupta,Sunscreen,Aqualogica,699,UPI,699,Delivered
+ORD-1801,25-Apr-26,3,Priya Jain,Face Scrub ,Biotique,299,COD,897,Delivered
+ORD-1802,25-Apr-26,2,Gaurav Sharma,Foundation ,Lakme,699,UPI,1398,Delivered
+ORD-1803,26-Apr-26,1,Rakesh Mehta,Hair Conditioner ,Dove,399,Credit Card,399,Delivered
+ORD-1804,26-Apr-26,2,Neha Gupta,Body Wash,Nivea,449,COD,898,Delivered
+ORD-1805,27-Apr-26,3,Manav Sharma,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1806,27-Apr-26,1,Shikha Jain,Mascara ,Maybelline,599,UPI,599,Cancelled
+ORD-1807,28-Apr-26,2,Yash Gupta,Hand Cream ,Nivea,249,COD,498,Delivered
+ORD-1808,28-Apr-26,1,Monica Mehta,Hair Shampoo,L'Oreal,599,Credit Card,599,Delivered
+ORD-1809,29-Apr-26,3,Ashish Sharma,BB Cream ,Garnier,499,UPI,1497,Delivered
+ORD-1810,29-Apr-26,2,Reena Gupta,Face Wash ,Mamaearth,499,COD,998,Delivered
+ORD-1811,30-Apr-26,1,Sameer Jain,Nail Polish,Lakme,199,UPI,199,Delivered
+ORD-1812,30-Apr-26,3,Kavya Sharma,Hair Spray ,L'Oreal,699,Credit Card,2097,Cancelled
+ORD-1813,21-Apr-26,2,Abhishek Gupta,Moisturizer ,Cetaphil,799,COD,1598,Delivered
+ORD-1814,22-Apr-26,1,Payal Mehta,Cleansing Balm,Dot & Key,599,UPI,599,Delivered
+ORD-1815,22-Apr-26,3,Tarun Jain,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1816,23-Apr-26,2,Aarti Gupta,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1817,23-Apr-26,1,Harish Sharma,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1818,24-Apr-26,2,Meenal Jain,Hair Serum,Strea,399,UPI,798,Cancelled
+ORD-1819,24-Apr-26,1,Kunal Gupta,Concealer ,Maybelline,599,COD,599,Delivered
+ORD-1820,25-Apr-26,3,Radhika Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1821,25-Apr-26,2,Sandeep Mehta,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1822,26-Apr-26,1,Tina Gupta,Lip Gloss,Lakme,499,COD,499,Delivered
+ORD-1823,26-Apr-26,2,Nikhil Sharma,Shampoo ,Sunsilk,299,UPI,598,Cancelled
+ORD-1824,27-Apr-26,1,Poonam Jain,Hair Oil ,Parachute,299,Credit Card,299,Delivered
+ORD-1825,27-Apr-26,3,Arvind Gupta,Face Cream ,Olay,899,UPI,2697,Delivered
+ORD-1826,28-Apr-26,2,Shreya Mehta,Kajal ,Maybelline,399,COD,798,Delivered
+ORD-1827,28-Apr-26,1,Aman Sharma,Hand Wash,Dettol,199,UPI,199,Delivered
+ORD-1828,29-Apr-26,2,Nandini Gupta,Body Scrub ,Dove,549,Credit Card,1098,Delivered
+ORD-1829,29-Apr-26,3,Vaha Jain,Sunscreen ,Aqualogica,699,COD,2097,Cancelled
+ORD-1830,30-Apr-26,1,Rajat Sharma,Eyebrow Pencil,Lakme,299,UPI,299,Delivered
+ORD-1831,30-Apr-26,2,Mansi Gupta,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1832,21-Apr-26,1,Dev Mehta,Hair Mask ,L'Oreal,799,COD,799,Delivered
+ORD-1833,22-Apr-26,3,Swati Sharma,Face Serum ,Plum,599,Credit Card,1797,Delivered
+ORD-1834,22-Apr-26,2,Karan Gupta,Foundation,Maybelline,699,UPI,1398,Delivered
+ORD-1835,23-Apr-26,1,Shalini Jain,Makeup Remover ,Garnier,299,COD,299,Cancelled
+ORD-1836,23-Apr-26,2,Vikas Sharma,Moisturizer ,Nivea,499,UPI,998,Delivered
+ORD-1837,24-Apr-26,3,Rhea Gupta,Shampoo ,Head & Shoulde,449,Credit Card,1347,Delivered
+ORD-1838,24-Apr-26,1,Saurabh Mehta,Face Toner,Plum,399,COD,399,Delivered
+ORD-1839,25-Apr-26,2,Ayesha Sharma,Lipstick ,Lakme,699,UPI,1398,Delivered
+ORD-1840,25-Apr-26,1,Mohan Jain,Hair Serum ,Strea,399,Credit Card,399,Cancelled
+ORD-1841,26-Apr-26,2,Priyanka Gupta,Face Wash ,Himalaya,249,COD,498,Delivered
+ORD-1842,26-Apr-26,1,Rajesh Mehta,Sunscreen,Dot & Key,699,UPI,699,Delivered
+ORD-1843,27-Apr-26,3,Mehak Sharma,Body Wash ,Dove,449,UPI,1347,Delivered
+ORD-1844,27-Apr-26,2,Ashok Gupta,Face Cream ,Nivea,449,Credit Card,898,Delivered
+ORD-1845,28-Apr-26,1,Nisha Mehta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1846,28-Apr-26,2,Rohan Gupta,Hair Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1847,29-Apr-26,3,Kavita Sharma,Face Serum ,Minimalist,599,Credit Card,1797,Delivered
+ORD-1848,29-Apr-26,1,Manish Jain,Lip Balm,Nivea,199,COD,199,Delivered
+ORD-1849,30-Apr-26,2,Ananya Mehta,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1850,30-Apr-26,1,Suresh Gupta,Hair Oil ,Indulekha,599,UPI,599,Cancelled
+ORD-1851,21-Apr-26,3,Ritu Sharma,Face Wash ,CeraVe,799,COD,2397,Delivered
+ORD-1852,22-Apr-26,2,Akash Jain,Mascara,Maybelline,599,Credit Card,1198,Delivered
+ORD-1853,22-Apr-26,1,Sonal Mehta,Hand Cream ,Nivea,249,UPI,249,Delivered
+ORD-1854,23-Apr-26,2,Deepak Sharma,Hair Spray ,L'Oreal,699,COD,1398,Delivered
+ORD-1855,23-Apr-26,3,Isha Gupta,Sunscreen ,Minimalist,599,UPI,1797,Cancelled
+ORD-1856,24-Apr-26,1,Varun Mehta,Face Scrub,Biotique,299,Credit Card,299,Delivered
+ORD-1857,24-Apr-26,2,Priti Sharma,Shampoo ,Mamaearth,549,COD,1098,Delivered
+ORD-1858,25-Apr-26,1,Gaurav Jain,Cleansing Balm ,Dot & Key,599,UPI,599,Delivered
+ORD-1859,25-Apr-26,3,Monica Gupta,Lip Gloss,Lakme,499,UPI,1497,Delivered
+ORD-1860,26-Apr-26,2,Hahit Mehta,Body Lotion ,Vaseline,399,Credit Card,798,Cancelled
+ORD-1861,26-Apr-26,1,Neelam Jain,Eyeliner ,Lakme,399,COD,399,Delivered
+ORD-1862,27-Apr-26,2,Nitin Sharma,Moisturizer ,Plum,499,UPI,998,Delivered
+ORD-1863,27-Apr-26,3,Rachna Gupta,Foundation ,Lakme,699,Credit Card,2097,Delivered
+ORD-1864,28-Apr-26,1,Yash Jain,Hair Mask ,Mamaearth,599,COD,599,Delivered
+ORD-1865,28-Apr-26,2,Preeti Sharma,Face Toner,Plum,399,UPI,798,Cancelled
+ORD-1866,29-Apr-26,1,Mohit Gupta,Body Scrub ,Plum,549,UPI,549,Delivered
+ORD-1867,29-Apr-26,3,Shweta Jain,Sunscreen ,Aqualogica,699,COD,2097,Delivered
+ORD-1868,30-Apr-26,2,Kunal Sharma,Face Wash ,Cetaphil,699,Credit Card,1398,Delivered
+ORD-1869,30-Apr-26,1,Aarti Mehta,Nail Polish,Lakme,199,UPI,199,Cancelled
+ORD-1870,21-Apr-26,2,Rakesh Gupta,Conditioner ,Dove,399,COD,798,Delivered
+ORD-1871,22-Apr-26,3,Divya Jain,Hair Serum ,L'Oreal,899,UPI,2697,Delivered
+ORD-1872,23-Apr-26,1,Sameer Gupta,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1873,24-Apr-26,2,Sakshi Sharma,Lipstick,Maybelline,699,COD,1398,Delivered
+ORD-1874,25-Apr-26,1,Tarun Mehta,Sunscreen ,Dot & Key,699,UPI,699,Cancelled
+ORD-1875,26-Apr-26,2,Neha Sharma,Face Wash ,Cetaphil,699,UPI,1398,Delivered
+ORD-1876,26-Apr-26,1,Rahul Mehta,Shampoo,Mamaearth,549,COD,549,Delivered
+ORD-1877,27-Apr-26,3,Pooja Gupta,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1878,27-Apr-26,2,Karan Jain,Lipstick ,Lakme,699,Credit Card,1398,Delivered
+ORD-1879,28-Apr-26,1,Riya Sharma,Hair Serum ,L'Oreal,899,COD,899,Cancelled
+ORD-1880,28-Apr-26,2,Amit Kapoor,Moisturizer,Nivea,499,UPI,998,Delivered
+ORD-1881,29-Apr-26,1,Shweta Mehta,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1882,29-Apr-26,3,Mohit Gupta,Kajal,Maybelline,399,UPI,1197,Delivered
+ORD-1883,30-Apr-26,2,Nisha Jain,Face Serum ,Plum,599,COD,1198,Delivered
+ORD-1884,30-Apr-26,1,Arjun Sharma,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1885,26-Apr-26,2,Divya Mehta,Conditioner ,Dove,399,Credit Card,798,Cancelled
+ORD-1886,26-Apr-26,1,Raj Gupta,Hand Wash,Dettol,199,COD,199,Delivered
+ORD-1887,27-Apr-26,3,Simran Sharma,Hair Mask ,Mamaearth,599,UPI,1797,Delivered
+ORD-1888,27-Apr-26,2,Varun Jain,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1889,28-Apr-26,1,Kavita Gupta,Face Wash ,CeraVe,799,COD,799,Delivered
+ORD-1890,28-Apr-26,2,Manish Mehta,Eyeliner,Lakme,399,UPI,798,Delivered
+ORD-1891,29-Apr-26,3,Preeti Jain,Body Scrub ,Dove,549,Credit Card,1647,Delivered
+ORD-1892,29-Apr-26,1,Saurabh Sharma,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1893,30-Apr-26,2,Ritu Mehta,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1894,30-Apr-26,1,Akash Gupta,Makeup Remover,Garnier,299,Credit Card,299,Delivered
+ORD-1895,26-Apr-26,3,Anjali Sharma,Shampoo ,Pantene,399,COD,1197,Delivered
+ORD-1896,27-Apr-26,2,Deepak Jain,Conditioner,Tresemme,499,UPI,998,Delivered
+ORD-1897,27-Apr-26,1,Sonal Gupta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1898,28-Apr-26,2,Rohit Mehta,Face Toner ,Plum,399,COD,798,Delivered
+ORD-1899,28-Apr-26,1,Isha Sharma,Primer ,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-1900,29-Apr-26,3,Nitin Gupta,Sunscreen,Aqualogica,699,UPI,2097,Delivered
+ORD-1901,29-Apr-26,2,Priya Jain,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-1902,30-Apr-26,1,Gaurav Sharma,Foundation,Lakme,699,UPI,699,Delivered
+ORD-1903,30-Apr-26,2,Rakesh Mehta,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-1904,26-Apr-26,1,Neha Gupta,Body Wash,Nivea,449,COD,449,Delivered
+ORD-1905,27-Apr-26,3,Manav Sharma,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-1906,27-Apr-26,1,Shikha Jain,Mascara ,Maybelline,599,UPI,599,Cancelled
+ORD-1907,28-Apr-26,2,Yash Gupta,Hand Cream ,Nivea,249,COD,498,Delivered
+ORD-1908,28-Apr-26,1,Monica Mehta,Hair Shampoo,L'Oreal,599,Credit Card,599,Delivered
+ORD-1909,29-Apr-26,3,Ashish Sharma,BB Cream ,Garnier,499,UPI,1497,Delivered
+ORD-1910,29-Apr-26,2,Reena Gupta,Face Wash ,Mamaearth,499,COD,998,Delivered
+ORD-1911,30-Apr-26,1,Sameer Jain,Nail Polish,Lakme,199,UPI,199,Delivered
+ORD-1912,30-Apr-26,3,Kavya Sharma,Hair Spray ,L'Oreal,699,Credit Card,2097,Cancelled
+ORD-1913,26-Apr-26,2,Abhishek Gupta,Moisturizer ,Cetaphil,799,COD,1598,Delivered
+ORD-1914,27-Apr-26,1,Payal Mehta,Cleansing Balm,Dot & Key,599,UPI,599,Delivered
+ORD-1915,27-Apr-26,3,Tarun Jain,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-1916,28-Apr-26,2,Aarti Gupta,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-1917,28-Apr-26,1,Harish Sharma,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1918,29-Apr-26,2,Meenal Jain,Hair Serum,Strea,399,UPI,798,Cancelled
+ORD-1919,29-Apr-26,1,Kunal Gupta,Concealer ,Maybelline,599,COD,599,Delivered
+ORD-1920,30-Apr-26,3,Radhika Sharma,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-1921,30-Apr-26,2,Sandeep Mehta,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-1922,26-Apr-26,1,Tina Gupta,Lip Gloss,Lakme,499,COD,499,Delivered
+ORD-1923,27-Apr-26,2,Nikhil Sharma,Shampoo ,Sunsilk,299,UPI,598,Cancelled
+ORD-1924,27-Apr-26,1,Poonam Jain,Hair Oil ,Parachute,299,Credit Card,299,Delivered
+ORD-1925,28-Apr-26,3,Arvind Gupta,Face Cream ,Olay,899,UPI,2697,Delivered
+ORD-1926,28-Apr-26,2,Shreya Mehta,Kajal ,Maybelline,399,COD,798,Delivered
+ORD-1927,29-Apr-26,1,Aman Sharma,Hand Wash,Dettol,199,UPI,199,Delivered
+ORD-1928,29-Apr-26,2,Nandini Gupta,Body Scrub ,Dove,549,Credit Card,1098,Delivered
+ORD-1929,30-Apr-26,3,Vaha Jain,Sunscreen ,Aqualogica,699,COD,2097,Cancelled
+ORD-1930,30-Apr-26,1,Rajat Sharma,Eyebrow Pencil,Lakme,299,UPI,299,Delivered
+ORD-1931,26-Apr-26,2,Mansi Gupta,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-1932,27-Apr-26,1,Dev Mehta,Hair Mask ,L'Oreal,799,COD,799,Delivered
+ORD-1933,27-Apr-26,3,Swati Sharma,Face Serum ,Plum,599,Credit Card,1797,Delivered
+ORD-1934,28-Apr-26,2,Karan Gupta,Foundation,Maybelline,699,UPI,1398,Delivered
+ORD-1935,28-Apr-26,1,Shalini Jain,Makeup Remover ,Garnier,299,COD,299,Cancelled
+ORD-1936,29-Apr-26,2,Vikas Sharma,Moisturizer ,Nivea,499,UPI,998,Delivered
+ORD-1937,29-Apr-26,3,Rhea Gupta,Shampoo ,Head & Shoulde,449,Credit Card,1347,Delivered
+ORD-1938,30-Apr-26,1,Saurabh Mehta,Face Toner,Plum,399,COD,399,Delivered
+ORD-1939,30-Apr-26,2,Ayesha Sharma,Lipstick ,Lakme,699,UPI,1398,Delivered
+ORD-1940,26-Apr-26,1,Mohan Jain,Hair Serum ,Strea,399,Credit Card,399,Cancelled
+ORD-1941,27-Apr-26,2,Priyanka Gupta,Face Wash ,Himalaya,249,COD,498,Delivered
+ORD-1942,27-Apr-26,1,Rajesh Mehta,Sunscreen,Dot & Key,699,UPI,699,Delivered
+ORD-1943,28-Apr-26,3,Mehak Sharma,Body Wash ,Dove,449,UPI,1347,Delivered
+ORD-1944,28-Apr-26,2,Ashok Gupta,Face Cream ,Nivea,449,Credit Card,898,Delivered
+ORD-1945,29-Apr-26,1,Nisha Mehta,Blush ,Swiss Beauty,349,COD,349,Cancelled
+ORD-1946,29-Apr-26,2,Rohan Gupta,Hair Conditioner ,Tresemme,499,UPI,998,Delivered
+ORD-1947,30-Apr-26,3,Kavita Sharma,Face Serum ,Minimalist,599,Credit Card,1797,Delivered
+ORD-1948,30-Apr-26,1,Manish Jain,Lip Balm,Nivea,199,COD,199,Delivered
+ORD-1949,26-Apr-26,2,Ananya Mehta,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1950,27-Apr-26,1,Suresh Gupta,Hair Oil ,Indulekha,599,UPI,599,Cancelled
+ORD-1951,27-Apr-26,3,Ritu Sharma,Face Wash ,CeraVe,799,COD,2397,Delivered
+ORD-1952,28-Apr-26,2,Akash Jain,Mascara,Maybelline,599,Credit Card,1198,Delivered
+ORD-1953,28-Apr-26,1,Sonal Mehta,Hand Cream ,Nivea,249,UPI,249,Delivered
+ORD-1954,29-Apr-26,2,Deepak Sharma,Hair Spray ,L'Oreal,699,COD,1398,Delivered
+ORD-1955,29-Apr-26,3,Isha Gupta,Sunscreen ,Minimalist,599,UPI,1797,Cancelled
+ORD-1956,30-Apr-26,1,Varun Mehta,Face Scrub,Biotique,299,Credit Card,299,Delivered
+ORD-1957,30-Apr-26,2,Priti Sharma,Shampoo ,Mamaearth,549,COD,1098,Delivered
+ORD-1958,26-Apr-26,1,Gaurav Jain,Cleansing Balm ,Dot & Key,599,UPI,599,Delivered
+ORD-1959,27-Apr-26,3,Monica Gupta,Lip Gloss,Lakme,499,UPI,1497,Delivered
+ORD-1960,27-Apr-26,2,Hahit Mehta,Body Lotion ,Vaseline,399,Credit Card,798,Cancelled
+ORD-1961,28-Apr-26,1,Neelam Jain,Eyeliner ,Lakme,399,COD,399,Delivered
+ORD-1962,28-Apr-26,2,Nitin Sharma,Moisturizer ,Plum,499,UPI,998,Delivered
+ORD-1963,29-Apr-26,3,Rachna Gupta,Foundation ,Lakme,699,Credit Card,2097,Delivered
+ORD-1964,29-Apr-26,1,Yash Jain,Hair Mask ,Mamaearth,599,COD,599,Delivered
+ORD-1965,30-Apr-26,2,Preeti Sharma,Face Toner,Plum,399,UPI,798,Cancelled
+ORD-1966,30-Apr-26,1,Mohit Gupta,Body Scrub ,Plum,549,UPI,549,Delivered
+ORD-1967,26-Apr-26,3,Shweta Jain,Sunscreen ,Aqualogica,699,COD,2097,Delivered
+ORD-1968,27-Apr-26,2,Kunal Sharma,Face Wash ,Cetaphil,699,Credit Card,1398,Delivered
+ORD-1969,27-Apr-26,1,Aarti Mehta,Nail Polish,Lakme,199,UPI,199,Cancelled
+ORD-1970,28-Apr-26,2,Rakesh Gupta,Conditioner ,Dove,399,COD,798,Delivered
+ORD-1971,28-Apr-26,3,Divya Jain,Hair Serum ,L'Oreal,899,UPI,2697,Delivered
+ORD-1972,29-Apr-26,1,Sameer Gupta,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-1973,29-Apr-26,2,Sakshi Sharma,Lipstick,Maybelline,699,COD,1398,Delivered
+ORD-1974,30-Apr-26,1,Tarun Mehta,Sunscreen ,Dot & Key,699,UPI,699,Cancelled
+ORD-1975,30-Apr-26,2,Neha Gupta,Face Wash ,Mamaearth,499,UPI,998,Delivered
+ORD-1976,30-Apr-26,1,Rahul Jain,Shampoo,L'Oreal,599,COD,599,Delivered
+ORD-1977,29-Apr-26,3,Pooja Sharma,Sunscreen ,Dot & Key,699,UPI,2097,Delivered
+ORD-1978,29-Apr-26,2,Karan Mehta,Lipstick ,Maybelline,699,Credit Card,1398,Delivered
+ORD-1979,28-Apr-26,1,Riya Gupta,Hair Serum ,Strea,399,COD,399,Cancelled
+ORD-1980,28-Apr-26,2,Amit Sharma,Moisturizer,Plum,499,UPI,998,Delivered
+ORD-1981,27-Apr-26,1,Shweta Jain,Body Lotion ,Vaseline,399,Credit Card,399,Delivered
+ORD-1982,27-Apr-26,3,Mohit Gupta,Kajal,Maybelline,399,UPI,1197,Delivered
+ORD-1983,26-Apr-26,2,Nisha Mehta,Face Serum ,Minimalist,599,COD,1198,Delivered
+ORD-1984,26-Apr-26,1,Arjun Jain,Compact Powder ,Maybelline,499,UPI,499,Delivered
+ORD-1985,25-Apr-26,2,Divya Sharma,Conditioner ,Dove,399,Credit Card,798,Cancelled
+ORD-1986,25-Apr-26,1,Raj Gupta,Hand Wash,Dettol,199,COD,199,Delivered
+ORD-1987,24-Apr-26,3,Simran Jain,Hair Mask ,Mamaearth,599,UPI,1797,Delivered
+ORD-1988,24-Apr-26,2,Varun Mehta,Blush ,Swiss Beauty,349,Credit Card,698,Delivered
+ORD-1989,23-Apr-26,1,Kavita Sharma,Face Wash ,CeraVe,799,COD,799,Delivered
+ORD-1990,23-Apr-26,2,Manish Gupta,Eyeliner,Lakme,399,UPI,798,Delivered
+ORD-1991,22-Apr-26,3,Preeti Mehta,Body Scrub ,Dove,549,Credit Card,1647,Delivered
+ORD-1992,22-Apr-26,1,Saurabh Jain,Hair Oil ,Parachute,299,COD,299,Cancelled
+ORD-1993,21-Apr-26,2,Ritu Sharma,Night Cream ,Olay,899,UPI,1798,Delivered
+ORD-1994,21-Apr-26,1,Akash Gupta,Makeup Remover,Garnier,299,Credit Card,299,Delivered
+ORD-1995,20-Apr-26,3,Anjali Jain,Shampoo ,Pantene,399,COD,1197,Delivered
+ORD-1996,20-Apr-26,2,Deepak Mehta,Conditioner,Tresemme,499,UPI,998,Delivered
+ORD-1997,19-Apr-26,1,Sonal Gupta,Lip Balm ,Nivea,199,UPI,199,Delivered
+ORD-1998,19-Apr-26,2,Rohit Sharma,Face Toner ,Plum,399,COD,798,Delivered
+ORD-1999,18-Apr-26,1,Isha Mehta,Primer ,Swiss Beauty,499,Credit Card,499,Cancelled
+ORD-2000,18-Apr-26,3,Nitin Jain,Sunscreen,Aqualogica,699,UPI,2097,Delivered
+ORD-2001,17-Apr-26,2,Priya Sharma,Face Scrub ,Biotique,299,COD,598,Delivered
+ORD-2002,17-Apr-26,1,Gaurav Mehta,Foundation,Lakme,699,UPI,699,Delivered
+ORD-2003,16-Apr-26,2,Rakesh Gupta,Hair Conditioner ,Dove,399,Credit Card,798,Delivered
+ORD-2004,16-Apr-26,1,Neha Jain,Body Wash,Nivea,449,COD,449,Delivered
+ORD-2005,15-Apr-26,3,Manav Gupta,Face Serum ,The Ordinary,999,UPI,2997,Delivered
+ORD-2006,15-Apr-26,1,Shikha Mehta,Mascara ,Maybelline,599,UPI,599,Cancelled
+ORD-2007,14-Apr-26,2,Yash Sharma,Hand Cream ,Nivea,249,COD,498,Delivered
+ORD-2008,14-Apr-26,1,Monica Gupta,Hair Shampoo,L'Oreal,599,Credit Card,599,Delivered
+ORD-2009,13-Apr-26,3,Ashish Jain,BB Cream ,Garnier,499,UPI,1497,Delivered
+ORD-2010,13-Apr-26,2,Reena Sharma,Face Wash ,Mamaearth,499,COD,998,Delivered
+ORD-2011,12-Apr-26,1,Sameer Gupta,Nail Polish,Lakme,199,UPI,199,Delivered
+ORD-2012,12-Apr-26,3,Kavya Mehta,Hair Spray ,L'Oreal,699,Credit Card,2097,Cancelled
+ORD-2013,11-Apr-26,2,Abhishek Jain,Moisturizer ,Cetaphil,799,COD,1598,Delivered
+ORD-2014,11-Apr-26,1,Payal Sharma,Cleansing Balm,Dot & Key,599,UPI,599,Delivered
+ORD-2015,10-Apr-26,3,Tarun Gupta,Sunscreen ,Minimalist,599,UPI,1797,Delivered
+ORD-2016,10-Apr-26,2,Aarti Jain,Lip Liner ,Swiss Beauty,249,COD,498,Delivered
+ORD-2017,09-Apr-26,1,Harish Mehta,Face Mask ,Mamaearth,399,Credit Card,399,Delivered
+ORD-2018,09-Apr-26,2,Meenal Gupta,Hair Serum,Strea,399,UPI,798,Cancelled
+ORD-2019,08-Apr-26,1,Kunal Sharma,Concealer ,Maybelline,599,COD,599,Delivered
+ORD-2020,08-Apr-26,3,Radhika Jain,Body Lotion ,Nivea,449,UPI,1347,Delivered
+ORD-2021,07-Apr-26,2,Sandeep Gupta,Face Wash ,Neutrogena,699,Credit Card,1398,Delivered
+ORD-2022,07-Apr-26,1,Tina Sharma,Lip Gloss,Lakme,499,COD,499,Delivered
+ORD-2023,06-Apr-26,2,Nikhil Mehta,Shampoo ,Sunsilk,299,UPI,598,Cancelled
+ORD-2024,06-Apr-26,1,Poonam Gupta,Hair Oil ,Parachute,299,Credit Card,299,Delivered
+ORD-2025,05-Apr-26,3,Arvind Jain,Face Cream ,Olay,899,UPI,2697,Delivered
+ORD-2026,05-Apr-26,2,Shreya Sharma,Kajal ,Maybelline,399,COD,798,Delivered
+ORD-2027,04-Apr-26,1,Aman Gupta,Hand Wash,Dettol,199,UPI,199,Delivered
+ORD-2028,04-Apr-26,2,Nandini Jain,Body Scrub ,Dove,549,Credit Card,1098,Delivered
+ORD-2029,03-Apr-26,3,Vaha Sharma,Sunscreen ,Aqualogica,699,COD,2097,Cancelled
+ORD-2030,03-Apr-26,1,Rajat Mehta,Eyebrow Pencil,Lakme,299,UPI,299,Delivered
+ORD-2031,02-Apr-26,2,Mansi Gupta,Conditioner ,Mamaearth,449,UPI,898,Delivered
+ORD-2032,02-Apr-26,1,Dev Sharma,Hair Mask ,L'Oreal,799,COD,799,Delivered
+ORD-2033,01-Apr-26,3,Swati Jain,Face Serum ,Plum,599,Credit Card,1797,Delivered
+ORD-2034,01-Apr-26,2,Karan Gupta,Foundation,Maybelline,699,UPI,1398,Delivered
