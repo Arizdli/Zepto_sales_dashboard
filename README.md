@@ -1,2 +1,3 @@
-# Zepto_sales_dashboard
-Power BI sales dashboard for Zepto beauty and personal care products, analyzing revenue, customers, order status, payment methods, top products and top brands
+## Zepto Sales Dashboard
+
+An interactive Power BI dashboard that analyzes sales performance of beauty and personal care products on Zepto, covering revenue, customers, quantity sold, order status, payment methods, top products and top brands.
