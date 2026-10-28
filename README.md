@@ -30,7 +30,7 @@ An interactive Power BI dashboard that analyzes sales performance of beauty and 
 
 ## How to Use
 Clone this repository.
-Open the .pbix file in Power BI Desktop.
+Open the <a href="https://github.com/Arizdli/Zepto_sales_dashboard/blob/main/Zepto%20Dashboard.pbix">.pbix</a> file in Power BI Desktop.
 Use the Month slicer to explore the data.
 
 
