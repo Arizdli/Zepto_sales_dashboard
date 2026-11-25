@@ -32,5 +32,3 @@ An interactive Power BI dashboard that analyzes sales performance of beauty and 
 
 ## Author
 Ariz Ahmad 
-
-git add ZeptoDashboard.jpg Zeptodata.csv
